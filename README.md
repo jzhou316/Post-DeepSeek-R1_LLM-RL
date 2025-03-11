@@ -67,5 +67,25 @@ There May Not be Aha Moment in R1-Zero-like Training — A Pilot Study
 - There are Superficial Self-Reflection (SSR) from base models' responses, in which case self-reflections do not necessarily lead to correct final answers.
 - Closer look at R1-Zero-like training via RL, and found that the increasing response length phenomenon is not due to the emergence of self-reflection, but a consequence of RL optimizing well-designed rule-based reward functions.
 
+#### [Open Reasoner Zero](https://github.com/Open-Reasoner-Zero/Open-Reasoner-Zero?tab=readme-ov-file#open-reasoner-zero)
 
+- An Open Source Approach to Scaling Up Reinforcement Learning on the Base Model
+- Uses PPO (instead of GRPO; some [discussions](https://x.com/rosstaylor90/status/1892664646890312125))
+
+
+### Online Materials, Discussions
+
+- Video tutorials from Sasha Rush on [o1-like test-time scaling](https://github.com/srush/awesome-o1) and [DeepSeek](https://www.youtube.com/watch?v=KtBcIDtS13M)
+- [Some takeaways from the R1, DeepSeek-V3  and GRPO papers](https://x.com/Dan_Jeffries1/status/1881679981849215080) (twitter)
+
+
+## R1-like RL Reproduction for More Scenarios
+
+### Tools
+
+- RL libraries: [veRL](https://github.com/volcengine/verl) (seems most popular as of Mar 2025), [TRL](https://huggingface.co/docs/trl/en/index)
+- Starting models: [Qwen2.5](https://github.com/QwenLM/Qwen2.5) (base, instruct, R1-distilled, math) seems most popular (as of Mar 2025), both 3B and 7B models are made work; 0.5B is a bit weaker but could also learn
+- RL algorithms: [GRPO](https://arxiv.org/abs/2402.03300), [PPO](https://arxiv.org/pdf/1707.06347) (some dispute on whether GRPO is the must, [here](https://github.com/ZihanWang314/ragen?tab=readme-ov-file#-ragen-training-agents-by-reinforcing-reasoning-) and this paper)
+  - some tutorials [here](https://anukriti-ranjan.medium.com/preference-tuning-llms-ppo-dpo-grpo-a-simple-guide-135765c87090#:~:text=GRPO%2C%20from%20DeepSeek%20AI%2C%20is,making%20it%20lighter%20and%20faster.) and [here](https://huggingface.co/blog/NormalUhr/grpo)
+- GPU resourse: see the other reproductions, and discussion e.g. [here](https://github.com/huggingface/open-r1/issues/100)
 
