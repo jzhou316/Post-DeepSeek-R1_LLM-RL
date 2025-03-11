@@ -30,3 +30,8 @@ Resources and research after DeepSeek-R1, around test-time computing, resurgence
 ![](https://github.com/agentica-project/deepscaler/blob/main/figures/deepscaler.png)
 
 *Figure 1: DeepScaleR 1.5B model's Pass@1 accuracy on AIME2024 as RL training progresses. At step 1040 and 1520, the context length is extended to 16K and 24K. For more details, see our [blog post](https://pretty-radio-b75.notion.site/DeepScaleR-Surpassing-O1-Preview-with-a-1-5B-Model-by-Scaling-RL-19681902c1468005bed8ca303013a4e2).*
+
+
+#### [Open R1](https://github.com/huggingface/open-r1?tab=readme-ov-file#open-r1) (Hugging Face)
+
+- Fully open reproduction of DeepSeek-R1
