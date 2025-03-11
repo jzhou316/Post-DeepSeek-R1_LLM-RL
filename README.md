@@ -51,7 +51,7 @@ Resources and research after DeepSeek-R1, around test-time computing, resurgence
 #### [Mini-R1](https://github.com/philschmid/deep-learning-pytorch-huggingface/blob/main/training/mini-deepseek-r1-aha-grpo.ipynb)
 
 - A minimal single notebook that tries to reproduce the DeepSeek-R1 "reasoning" results on a single task (the Countdown Game)
-- Uses GRPO and Q-Lora, also with the TRL library
+- Uses GRPO and Q-Lora, also with the [TRL](https://huggingface.co/docs/trl/en/index) library
 - Starting with the [Qwen/Qwen2.5-3B-Instruct](https://huggingface.co/Qwen/Qwen2.5-3B-Instruct) model (suggested using models > 1.5B) (_Joe: Yes, we need the model to start with to have certain capabilities_)
 - Good learning material with code
 
