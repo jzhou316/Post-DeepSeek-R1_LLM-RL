@@ -35,3 +35,4 @@ Resources and research after DeepSeek-R1, around test-time computing, resurgence
 #### [Open R1](https://github.com/huggingface/open-r1?tab=readme-ov-file#open-r1) (Hugging Face)
 
 - Fully open reproduction of DeepSeek-R1
+- [Blog post](https://huggingface.co/blog/open-r1)
