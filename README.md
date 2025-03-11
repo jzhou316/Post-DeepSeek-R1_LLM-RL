@@ -40,11 +40,29 @@ Resources and research after DeepSeek-R1, around test-time computing, resurgence
 - [Blog post](https://huggingface.co/blog/open-r1)
 
 
+#### [TinyZero](https://github.com/Jiayi-Pan/TinyZero)
+
+- A reproduction of DeepSeek-R1-Zero in countdown and multiplication tasks
+- Through RL, the 3B base LM develops self-verification and search abilities all on its own
+- Fails to learn reasoning with Qwen2.5-0.5B base
+- Works with [Qwen/Qwen2.5-3B-Instruct](https://huggingface.co/Qwen/Qwen2.5-3B-Instruct) model
+- Experiment run based on [veRL](https://github.com/volcengine/verl)
+
 #### [Mini-R1](https://github.com/philschmid/deep-learning-pytorch-huggingface/blob/main/training/mini-deepseek-r1-aha-grpo.ipynb)
 
 - A minimal single notebook that tries to reproduce the DeepSeek-R1 "reasoning" results on a single task (the Countdown Game)
 - Uses GRPO and Q-Lora, also with the TRL library
 - Starting with the [Qwen/Qwen2.5-3B-Instruct](https://huggingface.co/Qwen/Qwen2.5-3B-Instruct) model (suggested using models > 1.5B) (_Joe: Yes, we need the model to start with to have certain capabilities_)
 - Good learning material with code
+
+
+#### [Oat-Zero](https://github.com/sail-sg/oat-zero?tab=readme-ov-file#there-may-not-be-aha-moment-in-r1-zero-like-training--a-pilot-study)
+
+There May Not be Aha Moment in R1-Zero-like Training — A Pilot Study
+
+- Aha moment (such as self-reflection patterns) may already exist in the base model.
+- There are Superficial Self-Reflection (SSR) from base models' responses, in which case self-reflections do not necessarily lead to correct final answers.
+- Closer look at R1-Zero-like training via RL, and found that the increasing response length phenomenon is not due to the emergence of self-reflection, but a consequence of RL optimizing well-designed rule-based reward functions.
+
 
 
