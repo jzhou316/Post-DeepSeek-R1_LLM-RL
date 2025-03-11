@@ -97,4 +97,54 @@ There May Not be Aha Moment in R1-Zero-like Training — A Pilot Study
 - GPU resourse: see the other reproductions, and discussion e.g. [here](https://github.com/huggingface/open-r1/issues/100)
   - One GPU with GRPO on [Colab](https://unsloth.ai/blog/r1-reasoning)
 
+### LLM + RL with/for X
+
+
+#### [RAGEN: Training Agents by Reinforcing Reasoning](https://github.com/ZihanWang314/ragen?tab=readme-ov-file#-ragen-training-agents-by-reinforcing-reasoning-)
+RL + LLM applied to **agents**
+- Using PPO instead of GRPO
+
+#### [Logic-RL](https://github.com/Unakar/Logic-RL?tab=readme-ov-file#logic-rl)
+RL + LLM applied with synthetic logic puzzles with controllable complexity and straightforward answer verification
+
+#### [Teaching Language Models to Critique via Reinforcement Learning](https://github.com/HKUNLP/critic-rl?tab=readme-ov-file#-teaching-language-models-to-critique-via-reinforcement-learning-)
+RL + LLM applied to **coding**
+- Train with GRPO using verifiable rewards from sandbox execution
+
+#### [EasyR1: An Efficient, Scalable, Multi-Modality RL Training Framework](https://github.com/hiyouga/EasyR1)
+RL + LLM applied to **multimodality** (such as VLMs)
+
+#### [Search-R1: Train your LLMs to reason and call a search engine with reinforcement learning](https://github.com/PeterGriffinJin/Search-R1?tab=readme-ov-file#search-r1-train-your-llms-to-reason-and-call-a-search-engine-with-reinforcement-learning)
+
+RL + LLM applied to **retrieval** (interleaved with generaion/reasoning)
+- Tested on NQ dataset, retrieving from Wikipedia
+
+#### [Code-R1: Reproducing R1 for Code with Reliable Rewards](https://github.com/ganler/code-r1?tab=readme-ov-file#code-r1-reproducing-r1-for-code-with-reliable-rewards)
+RL + LLM applied to **coding**
+
+
+
+---
+
+## Literature
+
+### Test-time Scaling
+
+[(2025 Feb) S∗: Test Time Scaling for Code Generation](https://arxiv.org/pdf/2502.14382)
+
+-> Test-time scaling for coding
+
+[(2025 Feb) Teaching Language Models to Critique via Reinforcement Learning
+](https://arxiv.org/abs/2502.03492)
+
+-> Test-time scaling for coding
+
+
+### RL for Different Ways of Generation
+
+[(2025 Feb) Self-rewarding correction for mathematical reasoning
+](https://arxiv.org/pdf/2502.19613)
+
+-> Self corrections trained with RL during generaion
+
 
