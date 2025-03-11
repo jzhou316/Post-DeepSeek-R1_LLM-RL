@@ -73,6 +73,12 @@ There May Not be Aha Moment in R1-Zero-like Training — A Pilot Study
 - Uses PPO (instead of GRPO; some [discussions](https://x.com/rosstaylor90/status/1892664646890312125))
 
 
+#### [Colab Reproductions with Unsloth](https://unsloth.ai/blog/r1-reasoning)
+
+- One GPU with GRPO (worth trying when resource constraint)
+- Experience the "aha moment" for [free on Colab](https://x.com/danielhanchen/status/1887564724071768529) (seems easy to play with)
+
+
 ### Online Materials, Discussions
 
 - Video tutorials from Sasha Rush on [o1-like test-time scaling](https://github.com/srush/awesome-o1) and [DeepSeek](https://www.youtube.com/watch?v=KtBcIDtS13M)
@@ -84,8 +90,11 @@ There May Not be Aha Moment in R1-Zero-like Training — A Pilot Study
 ### Tools
 
 - RL libraries: [veRL](https://github.com/volcengine/verl) (seems most popular as of Mar 2025), [TRL](https://huggingface.co/docs/trl/en/index)
+  - Inference: [vLLM](https://github.com/vllm-project/vllm) seems a must to speed up inference
 - Starting models: [Qwen2.5](https://github.com/QwenLM/Qwen2.5) (base, instruct, R1-distilled, math) seems most popular (as of Mar 2025), both 3B and 7B models are made work; 0.5B is a bit weaker but could also learn
-- RL algorithms: [GRPO](https://arxiv.org/abs/2402.03300), [PPO](https://arxiv.org/pdf/1707.06347) (some dispute on whether GRPO is the must, [here](https://github.com/ZihanWang314/ragen?tab=readme-ov-file#-ragen-training-agents-by-reinforcing-reasoning-) and this paper)
+- RL algorithms: [GRPO](https://arxiv.org/abs/2402.03300), [PPO](https://arxiv.org/pdf/1707.06347) (some dispute on whether GRPO is the must, [here](https://github.com/ZihanWang314/ragen?tab=readme-ov-file#-ragen-training-agents-by-reinforcing-reasoning-) and [here](https://x.com/finbarrtimbers/status/1899118175830397322))
   - some tutorials [here](https://anukriti-ranjan.medium.com/preference-tuning-llms-ppo-dpo-grpo-a-simple-guide-135765c87090#:~:text=GRPO%2C%20from%20DeepSeek%20AI%2C%20is,making%20it%20lighter%20and%20faster.) and [here](https://huggingface.co/blog/NormalUhr/grpo)
 - GPU resourse: see the other reproductions, and discussion e.g. [here](https://github.com/huggingface/open-r1/issues/100)
+  - One GPU with GRPO on [Colab](https://unsloth.ai/blog/r1-reasoning)
+
 
