@@ -3,9 +3,11 @@ Resources and research after DeepSeek-R1, around test-time computing, resurgence
 
 ---
 
-# DeepSeek-R1 Reproduction
+## DeepSeek-R1 Reproduction ("popular" and fast ones)
 
 > This behavior is not only a testament to the model’s growing reasoning abilities but also a captivating example of how reinforcement learning can lead to unexpected and sophisticated outcomes.
+
+-- From [DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1)
 
 #### [Simple Reinforcement Learning for Reasoning](https://github.com/hkust-nlp/simpleRL-reason?tab=readme-ov-file#simple-reinforcement-learning-for-reasoning) (HKUST)
 
