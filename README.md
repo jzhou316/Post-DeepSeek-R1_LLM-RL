@@ -27,6 +27,7 @@ Resources and research after DeepSeek-R1, around test-time computing, resurgence
 - Aimed to democratize reinforcement learning (RL) for LLMs and reproduce DeepSeek R1 and OpenAI O1/O3 at scale
 - Iteratively scaling Deepseek's GRPO algorithm from 8K→16K→24K context length for thinking
 - Trained on top of [DeepSeek-R1-Distill-Qwen-1.5B](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B) (_Joe: so the initial model is already capable of deep thinking; better if we can do from base models_)
+- Heavily based on modified fork of [veRL](https://github.com/volcengine/verl), an open-source RLHF library
 - Good insight and training receipe: error cases are initially longer CoTs, so gradually extending context length for thinking during training (_Joe: a sort of curriculum learning for RL_)
 
 ![](https://github.com/agentica-project/deepscaler/blob/main/figures/deepscaler.png)
