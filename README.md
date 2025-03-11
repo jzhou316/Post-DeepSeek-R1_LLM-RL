@@ -166,3 +166,4 @@ RL + LLM applied to **retrieval**
 
 - Why Qwen works better then Llama? Qwen already exhibits certain reasoning behaviors before training
 - Priming Llama to begin RL training with data of complext reasoning behaviors helps, even when the final anwer is not correct
+- _Joe: somehow I don't really like the name of cognitive behaviors_
