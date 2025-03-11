@@ -167,3 +167,10 @@ RL + LLM applied to **retrieval**
 - Why Qwen works better then Llama? Qwen already exhibits certain reasoning behaviors before training
 - Priming Llama to begin RL training with data of complext reasoning behaviors helps, even when the final anwer is not correct
 - _Joe: somehow I don't really like the name of cognitive behaviors_
+
+
+### Efficiency
+
+[(2025 Mar) Chain of Draft: Thinking Faster by Writing Less](https://arxiv.org/abs/2502.18600)
+
+-> _Joe: this is using RL, but just a simple way of prompting by limiting the reasoning step lengths with instructions in prompts. I think similarly we can train LLM with RL to enforce this, and/or as a reward, to improve efficiency during the reasoning process_
