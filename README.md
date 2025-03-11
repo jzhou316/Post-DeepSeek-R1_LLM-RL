@@ -173,4 +173,4 @@ RL + LLM applied to **retrieval**
 
 [(2025 Mar) Chain of Draft: Thinking Faster by Writing Less](https://arxiv.org/abs/2502.18600)
 
--> _Joe: this is using RL, but just a simple way of prompting by limiting the reasoning step lengths with instructions in prompts. I think similarly we can train LLM with RL to enforce this, and/or as a reward, to improve efficiency during the reasoning process_
+-> _Joe: this is not using RL, but just a simple way of prompting by limiting the reasoning step lengths with instructions in prompts. I think similarly we can train LLM with RL to enforce this, and/or as a reward, to improve efficiency during the reasoning process_
