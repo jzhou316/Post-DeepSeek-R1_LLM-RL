@@ -89,7 +89,9 @@ There May Not be Aha Moment in R1-Zero-like Training — A Pilot Study
 
 ### Tools
 
-- RL libraries: [veRL](https://github.com/volcengine/verl) (seems most popular as of Mar 2025), [TRL](https://huggingface.co/docs/trl/en/index)
+- RL libraries:
+  - [veRL](https://github.com/volcengine/verl) (seems most popular as of Mar 2025). Check this [list](https://github.com/volcengine/verl?tab=readme-ov-file#awesome-work-using-verl) of R1 followup works
+  - [TRL](https://huggingface.co/docs/trl/en/index)
   - Inference: [vLLM](https://github.com/vllm-project/vllm) seems a must to speed up inference
 - Starting models: [Qwen2.5](https://github.com/QwenLM/Qwen2.5) (base, instruct, R1-distilled, math) seems most popular (as of Mar 2025), both 3B and 7B models are made work; 0.5B is a bit weaker but could also learn
 - RL algorithms: [GRPO](https://arxiv.org/abs/2402.03300), [PPO](https://arxiv.org/pdf/1707.06347) (some dispute on whether GRPO is the must, [here](https://github.com/ZihanWang314/ragen?tab=readme-ov-file#-ragen-training-agents-by-reinforcing-reasoning-) and [here](https://x.com/finbarrtimbers/status/1899118175830397322))
@@ -105,11 +107,14 @@ RL + LLM applied to **agents**
 - Using PPO instead of GRPO
 
 #### [Logic-RL](https://github.com/Unakar/Logic-RL?tab=readme-ov-file#logic-rl)
-RL + LLM applied with synthetic logic puzzles with controllable complexity and straightforward answer verification
+RL + LLM applied with **synthetic logic puzzles** with controllable complexity and straightforward answer verification
 
 #### [Teaching Language Models to Critique via Reinforcement Learning](https://github.com/HKUNLP/critic-rl?tab=readme-ov-file#-teaching-language-models-to-critique-via-reinforcement-learning-)
 RL + LLM applied to **coding**
 - Train with GRPO using verifiable rewards from sandbox execution
+
+#### [Code-R1: Reproducing R1 for Code with Reliable Rewards](https://github.com/ganler/code-r1?tab=readme-ov-file#code-r1-reproducing-r1-for-code-with-reliable-rewards)
+RL + LLM applied to **coding**
 
 #### [EasyR1: An Efficient, Scalable, Multi-Modality RL Training Framework](https://github.com/hiyouga/EasyR1)
 RL + LLM applied to **multimodality** (such as VLMs)
@@ -119,9 +124,13 @@ RL + LLM applied to **multimodality** (such as VLMs)
 RL + LLM applied to **retrieval** (interleaved with generaion/reasoning)
 - Tested on NQ dataset, retrieving from Wikipedia
 
-#### [Code-R1: Reproducing R1 for Code with Reliable Rewards](https://github.com/ganler/code-r1?tab=readme-ov-file#code-r1-reproducing-r1-for-code-with-reliable-rewards)
-RL + LLM applied to **coding**
+#### [ReSearch: Learning to Reason with Search for LLMs via Reinforcement Learning](https://github.com/Agent-RL/ReSearch)
+RL + LLM applied to **retrieval** (RAG)
+- Trained with HotpotQA data
 
+#### [DeepRetrieval - Hacking Search Engines & Retrievers with LLM + RL](https://github.com/pat-jj/DeepRetrieval)
+RL + LLM applied to **retrieval**
+- Tested on literature mining, publication search and trial search tasks
 
 
 ---
@@ -148,3 +157,12 @@ RL + LLM applied to **coding**
 -> Self corrections trained with RL during generaion
 
 
+### Understanding R1 and RL + LLMs
+
+[(2025 Mar) Cognitive Behaviors that Enable Self-Improving Reasoners, or, Four Habits of Highly Effective STaRs
+](https://arxiv.org/abs/2503.01307)
+
+-> Analyzing the behaviors of emergent reasoning from LLM + RL, across base models and training data
+
+- Why Qwen works better then Llama? Qwen already exhibits certain reasoning behaviors before training
+- Priming Llama to begin RL training with data of complext reasoning behaviors helps, even when the final anwer is not correct
