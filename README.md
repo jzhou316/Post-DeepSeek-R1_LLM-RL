@@ -5,6 +5,8 @@ Resources and research after DeepSeek-R1, around test-time computing, resurgence
 
 # DeepSeek-R1 Reproduction
 
+> This behavior is not only a testament to the model’s growing reasoning abilities but also a captivating example of how reinforcement learning can lead to unexpected and sophisticated outcomes.
+
 #### [Simple Reinforcement Learning for Reasoning](https://github.com/hkust-nlp/simpleRL-reason?tab=readme-ov-file#simple-reinforcement-learning-for-reasoning) (HKUST)
 
 
@@ -36,3 +38,13 @@ Resources and research after DeepSeek-R1, around test-time computing, resurgence
 
 - Fully open reproduction of DeepSeek-R1
 - [Blog post](https://huggingface.co/blog/open-r1)
+
+
+#### [Mini-R1](https://github.com/philschmid/deep-learning-pytorch-huggingface/blob/main/training/mini-deepseek-r1-aha-grpo.ipynb)
+
+- A minimal single notebook that tries to reproduce the DeepSeek-R1 "reasoning" results on a single task (the Countdown Game)
+- Uses GRPO and Q-Lora, also with the TRL library
+- Starting with the [Qwen/Qwen2.5-3B-Instruct](https://huggingface.co/Qwen/Qwen2.5-3B-Instruct) model (suggested using models > 1.5B) (_Joe: Yes, we need the model to start with to have certain capabilities_)
+- Good learning material with code
+
+
