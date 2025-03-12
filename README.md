@@ -127,6 +127,12 @@ RL + LLM applied to **coding**
 #### [EasyR1: An Efficient, Scalable, Multi-Modality RL Training Framework](https://github.com/hiyouga/EasyR1)
 RL + LLM applied to **multimodality** (such as VLMs)
 
+#### [R1-Omni: Explainable Omni-Multimodal Emotion Recognition with Reinforcement Learning](https://arxiv.org/abs/2503.05379)
+RL + LLM applied to **multimodality**
+
+- For the task of emotion recognition, with visual and audio signals (videos)
+- Learning with a 0.5B model
+
 #### [Search-R1: Train your LLMs to reason and call a search engine with reinforcement learning](https://github.com/PeterGriffinJin/Search-R1?tab=readme-ov-file#search-r1-train-your-llms-to-reason-and-call-a-search-engine-with-reinforcement-learning)
 
 RL + LLM applied to **retrieval** (interleaved with generaion/reasoning)
