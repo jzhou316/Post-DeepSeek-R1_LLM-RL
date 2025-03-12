@@ -1,13 +1,21 @@
 # Post-DeepSeek-R1
 Resources and research after DeepSeek-R1, around test-time computing, resurgence of RL, and new LLM learning/application paradigms.
 
----
-
-## DeepSeek-R1 Reproduction ("popular" and fast ones)
 
 > This behavior is not only a testament to the model’s growing reasoning abilities but also a captivating example of how reinforcement learning can lead to unexpected and sophisticated outcomes.
 
 -- From [DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1)
+
+<div align="center">
+<img src="https://github.com/jzhou316/Post-DeepSeek-R1/blob/main/images/tweet_mark_chen.png" width="500" alt="">
+</div>
+
+-- From [Mark Chen](https://x.com/markchen90/status/1884303237186216272), OpenAI Chief Research Officer
+
+---
+
+## DeepSeek-R1 Reproduction ("popular" and fast ones)
+
 
 #### [Simple Reinforcement Learning for Reasoning](https://github.com/hkust-nlp/simpleRL-reason?tab=readme-ov-file#simple-reinforcement-learning-for-reasoning) (HKUST)
 
@@ -93,7 +101,7 @@ There May Not be Aha Moment in R1-Zero-like Training — A Pilot Study
   - [veRL](https://github.com/volcengine/verl) (seems most popular as of Mar 2025). Check this [list](https://github.com/volcengine/verl?tab=readme-ov-file#awesome-work-using-verl) of R1 followup works
   - [TRL](https://huggingface.co/docs/trl/en/index)
   - Inference: [vLLM](https://github.com/vllm-project/vllm) seems a must to speed up inference
-- Starting models: [Qwen2.5](https://github.com/QwenLM/Qwen2.5) (base, instruct, R1-distilled, math) seems most popular (as of Mar 2025), both 3B and 7B models are made work; 0.5B is a bit weaker but could also learn
+- Starting models: [Qwen2.5](https://github.com/QwenLM/Qwen2.5) (base, instruct, R1-distilled, math) seems most popular (as of Mar 2025) (why? some [empirical answers](https://arxiv.org/abs/2503.01307)), both 3B and 7B models are made work; 0.5B is a bit weaker but could also learn
 - RL algorithms: [GRPO](https://arxiv.org/abs/2402.03300), [PPO](https://arxiv.org/pdf/1707.06347) (some dispute on whether GRPO is the must, [here](https://github.com/ZihanWang314/ragen?tab=readme-ov-file#-ragen-training-agents-by-reinforcing-reasoning-) and [here](https://x.com/finbarrtimbers/status/1899118175830397322))
   - some tutorials [here](https://anukriti-ranjan.medium.com/preference-tuning-llms-ppo-dpo-grpo-a-simple-guide-135765c87090#:~:text=GRPO%2C%20from%20DeepSeek%20AI%2C%20is,making%20it%20lighter%20and%20faster.) and [here](https://huggingface.co/blog/NormalUhr/grpo)
 - GPU resourse: see the other reproductions, and discussion e.g. [here](https://github.com/huggingface/open-r1/issues/100)
