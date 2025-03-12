@@ -170,6 +170,16 @@ RL + LLM applied to **retrieval**
 
 -> Self corrections trained with RL during generaion
 
+### Improve Long CoT for Reasoning
+
+[(2025 Mar) START: Self-taught Reasoner with Tools](https://arxiv.org/abs/2503.04625)
+
+-> Integrate tool usages with reasoning, with controled hint insertion and rejection sampling for training
+- Tool usage (writing Python code) inside reasoning
+- Enhance tool usage by injecting hint sequences in CoT during training, such as "Wait", "Maybe I can use Python" at various places based on heuristics
+- Interleave Python code + executor with reasoning
+- Rejection sampling fine-tuning (RFT)
+- _Joe: this does not use RL. And the paper was not well polished such as in-text citation formats_
 
 ### Understanding R1 and RL + LLMs
 
@@ -180,7 +190,7 @@ RL + LLM applied to **retrieval**
 
 - Why Qwen works better then Llama? Qwen already exhibits certain reasoning behaviors before training
 - Priming Llama to begin RL training with data of complext reasoning behaviors helps, even when the final anwer is not correct
-- _Joe: somehow I don't really like the name of cognitive behaviors_
+- _Joe: somehow I don't really like the name of cognitive behaviors; maybe I'm naive_
 
 
 ### Efficiency
