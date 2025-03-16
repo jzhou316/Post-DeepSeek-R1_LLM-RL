@@ -179,7 +179,7 @@ RL + LLM applied to **retrieval**
 - Enhance tool usage by injecting hint sequences in CoT during training, such as "Wait", "Maybe I can use Python" at various places based on heuristics
 - Interleave Python code + executor with reasoning
 - Rejection sampling fine-tuning (RFT)
-- _Joe: this does not use RL. And the paper was not well polished such as in-text citation formats_
+- _Joe: this does not use RL. And the paper was not well polished (e.g. from small things like in-text citation formats, etc.)_
 
 ### Understanding R1 and RL + LLMs
 
@@ -190,7 +190,7 @@ RL + LLM applied to **retrieval**
 
 - Why Qwen works better then Llama? Qwen already exhibits certain reasoning behaviors before training
 - Priming Llama to begin RL training with data of complext reasoning behaviors helps, even when the final anwer is not correct
-- _Joe: somehow I don't really like the name of cognitive behaviors; maybe I'm naive_
+- _Joe: somehow I don't really get the name of cognitive behaviors (and the whole title); maybe I'm naive_
 
 
 ### Efficiency
@@ -198,3 +198,16 @@ RL + LLM applied to **retrieval**
 [(2025 Mar) Chain of Draft: Thinking Faster by Writing Less](https://arxiv.org/abs/2502.18600)
 
 -> _Joe: this is not using RL, but just a simple way of prompting by limiting the reasoning step lengths with instructions in prompts. I think similarly we can train LLM with RL to enforce this, and/or as a reward, to improve efficiency during the reasoning process_
+
+-> _Joe: found out the following paper does that exactly lol_
+
+[(2025 Mar) L1: Controlling How Long A Reasoning Model Thinks With Reinforcement Learning
+](https://arxiv.org/abs/2503.04697)
+
+-> Joe: LLM + RL to encourage shorter reasoning steps. The way is to condition on special symbols in the prompt controling reasoning steps, which poses another reward
+
+- Training starts from the base model [DeepScaleR-1.5B-Preview](#DeepScaleR) (using the same hyperparameters for GRPO)
+- Training data also from DeepScaleR-Preview-Dataset, 40K question-answer pairs drawn from AIME, AMC, Omni-Math and STILL
+- Training context length restricted to 4K, and testing restricted to 8K
+- Fine-tuned for 700 steps and further 120 steps for two different length reward formulations
+- Again using VeRL framework
