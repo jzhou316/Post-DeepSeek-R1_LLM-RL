@@ -199,12 +199,12 @@ RL + LLM applied to **retrieval**
 
 -> _Joe: this is not using RL, but just a simple way of prompting by limiting the reasoning step lengths with instructions in prompts. I think similarly we can train LLM with RL to enforce this, and/or as a reward, to improve efficiency during the reasoning process_
 
--> _Joe: found out the following paper does that exactly lol_
+-> _Joe: (a few days later) found out the following paper does that exactly lol_
 
 [(2025 Mar) L1: Controlling How Long A Reasoning Model Thinks With Reinforcement Learning
 ](https://arxiv.org/abs/2503.04697)
 
--> Joe: LLM + RL to encourage shorter reasoning steps. The way is to condition on special symbols in the prompt controling reasoning steps, which poses another reward
+-> _Joe: LLM + RL to encourage shorter reasoning steps. The way is to condition on special symbols in the prompt controling reasoning steps, which poses another reward_
 
 - Training starts from the base model [DeepScaleR-1.5B-Preview](#deepscaler-berkeley) (using the same hyperparameters for GRPO)
 - Training data also from DeepScaleR-Preview-Dataset, 40K question-answer pairs drawn from AIME, AMC, Omni-Math and STILL
