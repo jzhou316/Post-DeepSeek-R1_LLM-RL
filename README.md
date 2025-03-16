@@ -206,7 +206,7 @@ RL + LLM applied to **retrieval**
 
 -> Joe: LLM + RL to encourage shorter reasoning steps. The way is to condition on special symbols in the prompt controling reasoning steps, which poses another reward
 
-- Training starts from the base model [DeepScaleR-1.5B-Preview](#deepscaler) (using the same hyperparameters for GRPO)
+- Training starts from the base model [DeepScaleR-1.5B-Preview](#deepscaler-berkeley) (using the same hyperparameters for GRPO)
 - Training data also from DeepScaleR-Preview-Dataset, 40K question-answer pairs drawn from AIME, AMC, Omni-Math and STILL
 - Training context length restricted to 4K, and testing restricted to 8K
 - Fine-tuned for 700 steps and further 120 steps for two different length reward formulations
