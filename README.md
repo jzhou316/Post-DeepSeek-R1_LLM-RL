@@ -153,6 +153,14 @@ RL + LLM applied to **retrieval**
 
 ### Test-time Scaling
 
+[(2025 Jan) s1: Simple test-time scaling](https://arxiv.org/abs/2501.19393)
+
+-> Test-time scaling for reasoning
+
+- Collected 1K datapoints from diverse datasets and their reasoning traces (from Google Gemini Flash Thinking API), and then a pipeline of quality control and filtering
+- Finetune Qwen2.5-32B-Instruct on the 1K datapoints, with training takes just 26 minutes on 16 NVIDIA H100 GPUs
+- Control the test-time compute in the sequential generation scenario (as opposed to parallel like search or best of N). Control the reasoning length by inserting tokens "Final Answer:" and "Wait"
+
 [(2025 Feb) S∗: Test Time Scaling for Code Generation](https://arxiv.org/pdf/2502.14382)
 
 -> Test-time scaling for coding
@@ -161,6 +169,17 @@ RL + LLM applied to **retrieval**
 ](https://arxiv.org/abs/2502.03492)
 
 -> Test-time scaling for coding
+
+#### Scaling Laws (all kinds of)
+
+[(2024 Feb) Scaling Laws for Downstream Task Performance in Machine Translation](https://arxiv.org/abs/2402.04177)
+
+-> Scaling behavior in a transfer learning setting
+
+[(2025 Feb) Distillation Scaling Laws](https://arxiv.org/abs/2502.08606)
+
+-> Scaling behavior for knowledge distillation
+
 
 
 ### RL for Different Ways of Generation
@@ -179,7 +198,7 @@ RL + LLM applied to **retrieval**
 - Enhance tool usage by injecting hint sequences in CoT during training, such as "Wait", "Maybe I can use Python" at various places based on heuristics
 - Interleave Python code + executor with reasoning
 - Rejection sampling fine-tuning (RFT)
-- _Joe: this does not use RL. And the paper was not well polished (e.g. from small things like in-text citation formats, etc.)_
+- _Joe: this uses rejection sampling (you can call it RL, from the Llama2 paper). And the paper was not well polished (e.g. from small things like in-text citation formats, etc.)_
 
 ### Understanding R1 and RL + LLMs
 
