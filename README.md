@@ -251,4 +251,4 @@ RL + LLM applied to **retrieval**
 
 [(2025 Feb) Demystifying Long Chain-of-Thought Reasoning in LLMs](https://arxiv.org/pdf/2502.03373)
 
-_Joe: see Section 4.2 for the length control with reward design. Strategy is similar to the paper above._
+-> _Joe: see Section 4.2 for the length control with reward design. Strategy is similar to the paper above._
