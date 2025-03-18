@@ -153,6 +153,14 @@ RL + LLM applied to **retrieval**
 
 ### Test-time Scaling
 
+[(2024 Aug) Scaling LLM Test-Time Compute Optimally can be More Effective than Scaling Model Parameters](https://arxiv.org/abs/2408.03314)
+
+-> Test-time scaling for math
+
+- Includes search strategies such as Best-of-N, beam search, and beam search with lookahead
+- Involves process reward model (PRM) and revision models
+
+
 [(2025 Jan) s1: Simple test-time scaling](https://arxiv.org/abs/2501.19393)
 
 -> Test-time scaling for reasoning
@@ -198,7 +206,7 @@ RL + LLM applied to **retrieval**
 - Enhance tool usage by injecting hint sequences in CoT during training, such as "Wait", "Maybe I can use Python" at various places based on heuristics
 - Interleave Python code + executor with reasoning
 - Rejection sampling fine-tuning (RFT)
-- _Joe: this uses rejection sampling (you can call it RL, from the Llama2 paper). And the paper was not well polished (e.g. from small things like in-text citation formats, etc.)_
+- _Joe: this uses rejection sampling (you can call it RL, from the [Llama2 paper](https://arxiv.org/abs/2307.09288)). And the paper was not well polished (e.g. from small things like in-text citation formats, etc.)_
 
 ### Understanding R1 and RL + LLMs
 
