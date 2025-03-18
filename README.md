@@ -226,6 +226,9 @@ RL + LLM applied to **retrieval**
 - Priming Llama to begin RL training with data of complext reasoning behaviors helps, even when the final anwer is not correct
 - _Joe: somehow I don't really get the name of cognitive behaviors (and the whole title); maybe I'm naive_
 
+[(2025 Feb) Demystifying Long Chain-of-Thought Reasoning in LLMs](https://arxiv.org/pdf/2502.03373)
+
+-> Analyzing the learning dynamics of emergent reasoning with LLM + RL, across different factors such as SFT initilization, lengh reward design, etc.
 
 ### Efficiency
 
@@ -245,3 +248,7 @@ RL + LLM applied to **retrieval**
 - Training context length restricted to 4K, and testing restricted to 8K
 - Fine-tuned for 700 steps and further 120 steps for two different length reward formulations
 - Again using [VeRL](#tools) framework
+
+[(2025 Feb) Demystifying Long Chain-of-Thought Reasoning in LLMs](https://arxiv.org/pdf/2502.03373)
+
+_Joe: see Section 4.2 for the length control with reward design. Strategy is similar to the paper above._
