@@ -178,6 +178,10 @@ RL + LLM applied to **retrieval**
 
 -> Test-time scaling for coding
 
+> [!note]
+> _Joe: If we think about test time computing promoted by OpenAI o1, Deepmind [AlphaCode](https://deepmind.google/discover/blog/competitive-programming-with-alphacode/) in 2022 already used test-time scaling to do a lot of sampling and selection to boost the performance of competitive coding._
+
+
 #### Scaling Laws (all kinds of)
 
 [(2024 Feb) Scaling Laws for Downstream Task Performance in Machine Translation](https://arxiv.org/abs/2402.04177)
