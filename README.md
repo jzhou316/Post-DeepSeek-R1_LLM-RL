@@ -151,6 +151,9 @@ RL + LLM applied to **retrieval**
 
 ## Literature
 
+_Joe: I marked the year with month for papers, due to the extreme fast pace in this domain of exploding research_
+
+
 ### Test-time Scaling
 
 [(2024 Aug) Scaling LLM Test-Time Compute Optimally can be More Effective than Scaling Model Parameters](https://arxiv.org/abs/2408.03314)
@@ -215,10 +218,21 @@ RL + LLM applied to **retrieval**
 - Rejection sampling fine-tuning (RFT)
 - _Joe: this uses rejection sampling (you can call it RL, from the [Llama2 paper](https://arxiv.org/abs/2307.09288)). And the paper was not well polished (e.g. from small things like in-text citation formats, etc.)_
 
-### Understanding R1 and RL + LLMs
+### Understanding R1 and RL + LLMs, Tricks to Train RL
 
-[(2025 Mar) Cognitive Behaviors that Enable Self-Improving Reasoners, or, Four Habits of Highly Effective STaRs
-](https://arxiv.org/abs/2503.01307)
+[(2025 Jan) Advancing Language Model Reasoning through Reinforcement Learning and Inference Scaling](https://arxiv.org/abs/2501.11651)
+
+-> Tricks to scale up RL training to make it work
+
+- Encourage sample diversity through oversampling
+- Auxilliary loss on entropy
+- Penalize undesired behaviors
+
+[(2025 Feb) Demystifying Long Chain-of-Thought Reasoning in LLMs](https://arxiv.org/pdf/2502.03373)
+
+-> Analyzing the learning dynamics of emergent reasoning with LLM + RL, across different factors such as SFT initilization, lengh reward design, etc.
+
+[(2025 Mar) Cognitive Behaviors that Enable Self-Improving Reasoners, or, Four Habits of Highly Effective STaRs](https://arxiv.org/abs/2503.01307)
 
 -> Analyzing the behaviors of emergent reasoning from LLM + RL, across base models and training data
 
@@ -226,9 +240,8 @@ RL + LLM applied to **retrieval**
 - Priming Llama to begin RL training with data of complext reasoning behaviors helps, even when the final anwer is not correct
 - _Joe: somehow I don't really get the name of cognitive behaviors (and the whole title); maybe I'm naive_
 
-[(2025 Feb) Demystifying Long Chain-of-Thought Reasoning in LLMs](https://arxiv.org/pdf/2502.03373)
 
--> Analyzing the learning dynamics of emergent reasoning with LLM + RL, across different factors such as SFT initilization, lengh reward design, etc.
+ 
 
 ### Efficiency
 
