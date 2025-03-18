@@ -192,6 +192,9 @@ RL + LLM applied to **retrieval**
 
 -> Scaling behavior for knowledge distillation
 
+### Process Reward (after o1)
+
+[(2025 Feb) Process Reinforcement through Implicit Rewards](https://arxiv.org/abs/2502.01456)
 
 
 ### RL for Different Ways of Generation
