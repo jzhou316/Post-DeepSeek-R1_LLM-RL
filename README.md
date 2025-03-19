@@ -151,6 +151,8 @@ RL + LLM applied to **retrieval**
 
 ## Literature
 
+<details><summary>Literature</summary>
+
 _Joe: I marked the year with month for papers, due to the extreme fast pace in this domain of exploding research_
 
 
@@ -268,3 +270,5 @@ _Joe: I marked the year with month for papers, due to the extreme fast pace in t
 [(2025 Feb) Demystifying Long Chain-of-Thought Reasoning in LLMs](https://arxiv.org/pdf/2502.03373)
 
 -> _Joe: see Section 4.2 for the length control with reward design. Strategy is similar to the paper above._
+
+</details>
