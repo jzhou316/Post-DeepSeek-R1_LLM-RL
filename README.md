@@ -184,6 +184,9 @@ _Joe: I marked the year with month for papers, due to the extreme fast pace in t
 > [!note]
 > _Joe: If we think about test time computing promoted by OpenAI o1, Deepmind [AlphaCode](https://deepmind.google/discover/blog/competitive-programming-with-alphacode/) in 2022 already used test-time scaling to do a lot of sampling and selection to boost the performance of competitive coding._
 
+[(2025 Feb) Multi-Agent Verification: Scaling Test-Time Compute with Multiple Verifiers](https://arxiv.org/abs/2502.20379)
+
+-> Test-time scaling with multiple agents (LLMs) for verification
 
 #### Scaling Laws (all kinds of)
 
