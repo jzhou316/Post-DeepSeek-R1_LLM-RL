@@ -190,6 +190,13 @@ _Joe: I marked the year with month for papers, due to the extreme fast pace in t
 
 -> Test-time scaling with multiple agents (LLMs) for verification
 
+[(2025 Mar) Chain-of-Retrieval Augmented Generation](https://arxiv.org/abs/2501.14342)
+
+-> Test-time scaling for RAG
+
+- Design ways that can scale up inference computation for RAG, such as decomping the question into modular questions and iteratively retrieve
+- _Joe: this is a recurring theme of current rearch on test-time scaling for X. Design ways to increase inference computation, whether it be long CoT, search, verification, etc._
+
 #### Scaling Laws (all kinds of)
 
 [(2024 Feb) Scaling Laws for Downstream Task Performance in Machine Translation](https://arxiv.org/abs/2402.04177)
