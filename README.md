@@ -197,6 +197,11 @@ _Joe: I marked the year with month for papers, due to the extreme fast pace in t
 - Design ways that can scale up inference computation for RAG, such as decomping the question into modular questions and iteratively retrieve
 - _Joe: this is a recurring theme of current rearch on test-time scaling for X. Design ways to increase inference computation, whether it be long CoT, search, verification, etc._
 
+[(2025 Mar) Remasking Discrete Diffusion Models with Inference-Time Scaling](https://arxiv.org/abs/2503.00307)
+
+-> Test-time scaling for discrete diffusion models for texts
+
+
 #### Scaling Laws (all kinds of)
 
 [(2024 Feb) Scaling Laws for Downstream Task Performance in Machine Translation](https://arxiv.org/abs/2402.04177)
