@@ -257,8 +257,10 @@ _Joe: I marked the year with month for papers, due to the extreme fast pace in t
 - Priming Llama to begin RL training with data of complext reasoning behaviors helps, even when the final anwer is not correct
 - _Joe: somehow I don't really get the name of cognitive behaviors (and the whole title); maybe I'm naive_
 
+[(2025 Mar) Understanding R1-Zero-Like Training: A Critical Perspective](https://github.com/sail-sg/understand-r1-zero/blob/main/understand-r1-zero.pdf) 
 
- 
+-> Analyzing base models and RL
+
 
 ### Efficiency
 
