@@ -151,8 +151,6 @@ RL + LLM applied to **retrieval**
 
 ## Literature
 
-<details><summary>Literature</summary>
-
 _Joe: I marked the year with month for papers, due to the extreme fast pace in this domain of exploding research_
 
 
@@ -204,6 +202,8 @@ _Joe: I marked the year with month for papers, due to the extreme fast pace in t
 
 #### Scaling Laws (all kinds of)
 
+<details><summary>Scaling Laws</summary>
+
 [(2024 Feb) Scaling Laws for Downstream Task Performance in Machine Translation](https://arxiv.org/abs/2402.04177)
 
 -> Scaling behavior in a transfer learning setting
@@ -211,6 +211,8 @@ _Joe: I marked the year with month for papers, due to the extreme fast pace in t
 [(2025 Feb) Distillation Scaling Laws](https://arxiv.org/abs/2502.08606)
 
 -> Scaling behavior for knowledge distillation
+
+</details>
 
 ### Process Reward (after o1)
 
@@ -285,4 +287,4 @@ _Joe: I marked the year with month for papers, due to the extreme fast pace in t
 
 -> _Joe: see Section 4.2 for the length control with reward design. Strategy is similar to the paper above._
 
-</details>
+
