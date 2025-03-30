@@ -212,6 +212,12 @@ _Joe: I marked the year with month for papers, due to the extreme fast pace in t
 
 -> Scaling behavior for knowledge distillation
 
+[(2025 Feb) Distributional Scaling Laws for Emergent Capabilities](https://arxiv.org/abs/2502.17356)
+
+-> Emerging capabilities across multiple training runs with different random seeds
+
+- Training experiments with Qwen2.5-0.5B and Qwen2.5-1.5B
+
 </details>
 
 ### Process Reward (after o1)
