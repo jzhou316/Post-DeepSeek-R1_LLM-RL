@@ -293,4 +293,11 @@ _Joe: I marked the year with month for papers, due to the extreme fast pace in t
 
 -> _Joe: see Section 4.2 for the length control with reward design. Strategy is similar to the paper above._
 
+[(2025 Apr) Z1: Efficient Test-time Scaling with Code](https://arxiv.org/abs/2504.00810)
 
+-> Reducing reasoning token length through SFT on QwQ-32B-preview model generated data
+- Dataset size of 107K, SFT model Qwen-2.5-Coder-7B-Instruct with bfloat16, FSDP, global batch size to 128 for 2 epochs using 8 NVIDIA
+A100-80G GPUs
+- Simple reasoning dataset analysis of trigram frequency in Section 2.1 and Appendix A.2
+- The biggest difference is removing  `<think>...</think>` delimiters?
+- _Joe: Not quite sure about the "Shifted Thinking Window" name_
