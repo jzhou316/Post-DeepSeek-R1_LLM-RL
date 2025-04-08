@@ -14,6 +14,20 @@ Resources and research after DeepSeek-R1, around test-time computing, resurgence
 
 ---
 
+## Table of Contents
+
+- DeepSeek-R1 Reproduction
+- R1-like RL Reproduction for More Scenarios
+  - Tools
+  - LLM + RL with/for X
+- [Literature](#literature)
+  - Test-time Scaling
+  - Process Reward
+  - RL for Different Ways of Generation
+  - Improve Long CoT for Reasoning
+  - Understanding R1 and RL + LLMs, Tricks to Train RL
+  - Efficiency
+
 ## DeepSeek-R1 Reproduction ("popular" and fast ones)
 
 
