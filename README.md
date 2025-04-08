@@ -19,7 +19,7 @@ Resources and research after DeepSeek-R1, around test-time computing, resurgence
 - [DeepSeek-R1 Reproduction](#deepseek-r1-reproduction-popular-and-fast-ones)
 - [R1-like RL Reproduction for More Scenarios](#r1-like-rl-reproduction-for-more-scenarios)
   - [Tools](#tools)
-  - [LLM + RL with/for X](llm--rl-withfor-x)
+  - [LLM + RL with/for X](#llm--rl-withfor-x)
 - [Literature](#literature)
   - [Test-time Scaling](#test-time-scaling)
   - [Process Reward](#process-reward-after-o1)
