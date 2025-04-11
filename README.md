@@ -259,6 +259,13 @@ _Joe: I marked the year with month for papers, due to the extreme fast pace in t
 - Rejection sampling fine-tuning (RFT)
 - _Joe: this uses rejection sampling (you can call it RL, from the [Llama2 paper](https://arxiv.org/abs/2307.09288)). And the paper was not well polished (e.g. from small things like in-text citation formats, etc.)_
 
+[(2025 Feb) LIMO: Less is More for Reasoning](https://arxiv.org/abs/2502.03387)
+
+- 817 curated training samples
+- Fine-tune Qwen2.5-32B-Instruct with SFT
+
+
+
 ### Understanding R1 and RL + LLMs, Tricks to Train RL
 
 [(2025 Jan) Advancing Language Model Reasoning through Reinforcement Learning and Inference Scaling](https://arxiv.org/abs/2501.11651)
