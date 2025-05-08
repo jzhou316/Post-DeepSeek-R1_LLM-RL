@@ -248,6 +248,12 @@ _Joe: I marked the year with month for papers, due to the extreme fast pace in t
 
 -> Self corrections trained with RL during generaion
 
+[(2025 Mar) Reinforcement Learning for Long-Horizon Interactive LLM Agents](https://arxiv.org/pdf/2502.01600)
+
+-> RL (LOOP, a data- and memory-efficient variant of proximal policy optimization) for long-horizon interactive agents ([AppWorld](https://appworld.dev/))
+
+
+
 ### Improve Long CoT for Reasoning
 
 [(2025 Mar) START: Self-taught Reasoner with Tools](https://arxiv.org/abs/2503.04625)
