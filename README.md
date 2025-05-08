@@ -250,7 +250,7 @@ _Joe: I marked the year with month for papers, due to the extreme fast pace in t
 
 [(2025 Mar) Reinforcement Learning for Long-Horizon Interactive LLM Agents](https://arxiv.org/pdf/2502.01600)
 
--> RL (LOOP, a data- and memory-efficient variant of proximal policy optimization) for long-horizon interactive agents ([AppWorld](https://appworld.dev/))
+-> RL (LOOP, a data- and memory-efficient variant of proximal policy optimization) for long-horizon interactive **agents** ([AppWorld](https://appworld.dev/))
 
 
 
