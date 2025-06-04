@@ -333,6 +333,8 @@ A100-80G GPUs
 
 [(2025 Apr) ThinkPrune: Pruning Long Chain-of-Thought of LLMs via Reinforcement Learning](https://arxiv.org/abs/2504.01296)
 
+-> Added reasoning length limit as a reward for RL
+
 [(2025 May) Learn to Reason Efficiently with Adaptive Length-based Reward Shaping](https://arxiv.org/abs/2505.15612)
 
 -> Reducing reasoning trajectory with different length reward shapes
