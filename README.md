@@ -330,3 +330,10 @@ A100-80G GPUs
 - Simple reasoning dataset analysis of trigram frequency in Section 2.1 and Appendix A.2
 - The biggest difference is removing  `<think>...</think>` delimiters?
 - _Joe: Not quite sure about the "Shifted Thinking Window" name_
+
+[(2025 Apr) ThinkPrune: Pruning Long Chain-of-Thought of LLMs via Reinforcement Learning](https://arxiv.org/abs/2504.01296)
+
+[(2025 May) Learn to Reason Efficiently with Adaptive Length-based Reward Shaping](https://arxiv.org/abs/2505.15612)
+
+-> Reducing reasoning trajectory with different length reward shapes
+
