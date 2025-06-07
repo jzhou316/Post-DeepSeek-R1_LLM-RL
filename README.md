@@ -335,7 +335,12 @@ A100-80G GPUs
 
 -> Added reasoning length limit as a reward for RL
 
+[(2025 Apr) Stop Overthinking: A Survey on Efficient Reasoning for Large Language Models](https://arxiv.org/abs/2503.16419)
+
+-> Survey
+
 [(2025 May) Learn to Reason Efficiently with Adaptive Length-based Reward Shaping](https://arxiv.org/abs/2505.15612)
 
 -> Reducing reasoning trajectory with different length reward shapes
+
 
