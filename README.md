@@ -241,6 +241,13 @@ _Joe: I marked the year with month for papers, due to the extreme fast pace in t
 [(2025 Feb) Process Reinforcement through Implicit Rewards](https://arxiv.org/abs/2502.01456)
 
 
+### Multimodal, Image Generation
+
+[(2025 Jan) Can We Generate Images with CoT? Let's Verify and Reinforce Image Generation Step by Step](https://arxiv.org/abs/2501.13926)
+
+[(2025 Mar) ImageGen-CoT: Enhancing Text-to-Image In-context Learning with Chain-of-Thought Reasoning](https://arxiv.org/abs/2503.19312)
+
+
 ### RL for Different Ways of Generation
 
 [(2025 Feb) Self-rewarding correction for mathematical reasoning
