@@ -109,6 +109,12 @@ There May Not be Aha Moment in R1-Zero-like Training — A Pilot Study
 - [Some takeaways from the R1, DeepSeek-V3  and GRPO papers](https://x.com/Dan_Jeffries1/status/1881679981849215080) (twitter)
 
 
+### Other RL Trained Models
+
+[(2025 Mar) QwQ-32B: Embracing the Power of Reinforcement Learning](https://qwenlm.github.io/blog/qwq-32b/)
+
+
+
 ## R1-like RL Reproduction for More Scenarios
 
 ### Tools
