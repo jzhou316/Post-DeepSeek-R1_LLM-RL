@@ -23,6 +23,7 @@ Resources and research after DeepSeek-R1, around test-time computing, resurgence
 - [Literature](#literature)
   - [Test-time Scaling](#test-time-scaling)
   - [Process Reward](#process-reward-after-o1)
+  - [Multimodal, Image Generation](#multimodal-image-generation)
   - [RL for Different Ways of Generation](#rl-for-different-ways-of-generation)
   - [Improve Long CoT for Reasoning](#improve-long-cot-for-reasoning)
   - [Understanding R1 and RL + LLMs, Tricks to Train RL](#understanding-r1-and-rl--llms-tricks-to-train-rl)
