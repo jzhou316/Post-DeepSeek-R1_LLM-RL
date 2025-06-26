@@ -344,6 +344,11 @@ A100-80G GPUs
 - The biggest difference is removing  `<think>...</think>` delimiters?
 - _Joe: Not quite sure about the "Shifted Thinking Window" name_
 
+[(2024 Apr) Reasoning Models Know When They're Right: Probing Hidden States for Self-Verification](https://arxiv.org/abs/2504.05419v1)
+
+-> Probe whether the intermediate reasoning step hidden states can predict the correctness of the final answer
+- Can use the probe for early exit for long reasoning
+
 [(2025 Apr) ThinkPrune: Pruning Long Chain-of-Thought of LLMs via Reinforcement Learning](https://arxiv.org/abs/2504.01296)
 
 -> Added reasoning length limit as a reward for RL
