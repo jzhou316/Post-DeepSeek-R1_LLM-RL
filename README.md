@@ -283,7 +283,12 @@ _Joe: I marked the year with month for papers, due to the extreme fast pace in t
 - 817 curated training samples
 - Fine-tune Qwen2.5-32B-Instruct with SFT
 
+[(2025 May) SEAL: Steerable Reasoning Calibration of Large Language Models for Free](https://arxiv.org/abs/2504.07986)
 
+- Categorize the reasoning steps into three behaviors: Execution thoughts, Reflecting thoughts, and Transition thoughts
+- Analyzed that wrong reasonings often result in much longer generations, with more usages of reflecting and transition
+- Extract hidden states corresponding to different behaviral steps, and construct steering vectors to control the type of reasoning steps
+- Achieve more effective and efficient reasoning with inference-time steering
 
 ### Understanding R1 and RL + LLMs, Tricks to Train RL
 
@@ -366,6 +371,13 @@ A100-80G GPUs
 [(2025 May) Learn to Reason Efficiently with Adaptive Length-based Reward Shaping](https://arxiv.org/abs/2505.15612)
 
 -> Reducing reasoning trajectory with different length reward shapes
+
+[(2025 May) SEAL: Steerable Reasoning Calibration of Large Language Models for Free](https://arxiv.org/abs/2504.07986)
+
+- Categorize the reasoning steps into three behaviors: Execution thoughts, Reflecting thoughts, and Transition thoughts
+- Analyzed that wrong reasonings often result in much longer generations, with more usages of reflecting and transition
+- Extract hidden states corresponding to different behaviral steps, and construct steering vectors to control the type of reasoning steps
+- Achieve more effective and efficient reasoning with inference-time steering, by rougly controling the number of steps for reflection, etc.
 
 [(2025 June) Just Enough Thinking: Efficient Reasoning with Adaptive Length Penalties Reinforcement Learning](https://arxiv.org/abs/2506.05256)
 
