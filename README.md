@@ -357,8 +357,19 @@ A100-80G GPUs
 
 -> Survey
 
+[(2025 Apr) Learning Adaptive Parallel Reasoning with Language Models](https://arxiv.org/abs/2504.15466)
+
+-> Changing the generation process to combine parallel and sequential search during generation
+- Similar to one of my earlier ideas of optimizing generation process that can be trained with RL directly for efficiency
+- But focused on Countdown task only, and trained model from scratch for small scale experiments
+
 [(2025 May) Learn to Reason Efficiently with Adaptive Length-based Reward Shaping](https://arxiv.org/abs/2505.15612)
 
 -> Reducing reasoning trajectory with different length reward shapes
 
+[(2025 June) Just Enough Thinking: Efficient Reasoning with Adaptive Length Penalties Reinforcement Learning](https://arxiv.org/abs/2506.05256)
+
+-> Again adding a length related penalty in the reward for RL training, but adjusted to the difficulty of each questions, measured by the pass rate of K samples
+- The length reward formulation is a bit less straightforward
+- Doesn't show superior performance compared to previous baselines with simple length reward, such as L1-Max
 
