@@ -25,6 +25,8 @@
 
 - Autonomous Agents
 
+[(2025 May) DEBATE, TRAIN, EVOLVE: Self Evolution of Language Model Reasoning](https://arxiv.org/abs/2505.15734)
 
+- Using multi-agent debate to create reasoning traces for training reasoning models
 
 
