@@ -2,6 +2,8 @@
 
 [(2024 Jan) Self-Rewarding Language Models](https://arxiv.org/abs/2401.10020)
 
+[(2024 Nov) Self-Consistency Preference Optimization](https://arxiv.org/abs/2411.04109)
+
 [(2025 Mar) Self-Evolved Preference Optimization for Enhancing Mathematical Reasoning in Small Language Models](https://arxiv.org/abs/2503.04813)
 
 [(2025 May) Can Large Reasoning Models Self-Train?](https://arxiv.org/abs/2505.21444)
