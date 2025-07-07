@@ -318,6 +318,12 @@ _Joe: I marked the year with month for papers, due to the extreme fast pace in t
 -> Analyzing base models and RL
 
 
+[(2025 Jue) Thought Anchors: Which LLM Reasoning Steps Matter?](https://arxiv.org/abs/2506.19143)
+
+- Break down the reasoning chain into each single sentence, and check their causal relations and importances to other sentences and answer
+- And visualize, with a good demo page https://www.thought-anchors.com/
+
+
 ### Efficiency
 
 [(2025 Mar) Chain of Draft: Thinking Faster by Writing Less](https://arxiv.org/abs/2502.18600)
