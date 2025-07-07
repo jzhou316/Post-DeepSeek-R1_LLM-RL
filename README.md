@@ -319,8 +319,10 @@ _Joe: I marked the year with month for papers, due to the extreme fast pace in t
 
 
 [(2025 Jue) Thought Anchors: Which LLM Reasoning Steps Matter?](https://arxiv.org/abs/2506.19143)
+-> Analysis of reasoning sentences
 
 - Break down the reasoning chain into each single sentence, and check their causal relations and importances to other sentences and answer
+- Summarized a sentence taxonomy for reasoning sentences (Table 1 in Appendix A)
 - And visualize, with a good demo page https://www.thought-anchors.com/
 
 
