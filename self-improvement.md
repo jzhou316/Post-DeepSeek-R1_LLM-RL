@@ -2,6 +2,8 @@
 
 [(2024 Jan) Self-Rewarding Language Models](https://arxiv.org/abs/2401.10020)
 
+[(2024 June) Self-Play Fine-Tuning Converts Weak Language Models to Strong Language Models](https://arxiv.org/abs/2401.01335)
+
 [(2024 Nov) Self-Consistency Preference Optimization](https://arxiv.org/abs/2411.04109)
 
 [(2025 Mar) Self-Evolved Preference Optimization for Enhancing Mathematical Reasoning in Small Language Models](https://arxiv.org/abs/2503.04813)
@@ -31,4 +33,8 @@
 
 - Using multi-agent debate to create reasoning traces for training reasoning models
 
+[(2025 May) Latent Principle Discovery for Language Model Self-Improvement](https://arxiv.org/abs/2505.16927)
 
+[(2025 June) Self-Adapting Language Models](https://arxiv.org/pdf/2506.10943)
+
+- Something I've been thinking to do. Very excited for this direction.
