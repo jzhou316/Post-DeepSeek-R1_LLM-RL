@@ -6,6 +6,10 @@
 
 [(2024 Apr) Toward Self-Improvement of LLMs via Imagination, Searching, and Criticizing](https://arxiv.org/abs/2404.12253)
 
+[(2024 Apr) A Survey on Self-Evolution of Large Language Models](https://arxiv.org/abs/2404.14387)
+
+- **Survey** paper on LLM self-evolution conceptualized with iterative cycles composed of four phases: experience acquisition, experience refinement, updating, and evaluation.
+
 [(2024 June) Self-Play Fine-Tuning Converts Weak Language Models to Strong Language Models](https://arxiv.org/abs/2401.01335)
 
 [(2024 Nov) Self-Consistency Preference Optimization](https://arxiv.org/abs/2411.04109)
@@ -14,7 +18,7 @@
 
 [(2024 Dec) A Survey on LLM Inference-Time Self-Improvement](https://arxiv.org/pdf/2412.14352)
 
-- Survey paper for inference-time self-improvement
+- **Survey** paper for inference-time self-improvement
 - Collection of prior papers: https://github.com/dongxiangjue/Awesome-LLM-Self-Improvement
 
 [(2025 Mar) Self-Evolved Preference Optimization for Enhancing Mathematical Reasoning in Small Language Models](https://arxiv.org/abs/2503.04813)
