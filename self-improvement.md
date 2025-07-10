@@ -46,6 +46,10 @@
 
 [(2025 May) Latent Principle Discovery for Language Model Self-Improvement](https://arxiv.org/abs/2505.16927)
 
+[(2025 May) Self-Evolving Curriculum for LLM Reasoning](https://arxiv.org/abs/2505.14970)
+
+- Curriculum learning approach with RL for training data selection
+
 [(2025 June) Self-Adapting Language Models](https://arxiv.org/pdf/2506.10943)
 
 - Something I've been thinking to do. Very excited for this direction.
