@@ -1,5 +1,7 @@
 ## Recent Work on Self Improvment of LLMs
 
+[(2022 Oct) Large Language Models Can Self-Improve](https://arxiv.org/abs/2210.11610)
+
 [(2024 Jan) Self-Rewarding Language Models](https://arxiv.org/abs/2401.10020)
 
 [(2024 June) Self-Play Fine-Tuning Converts Weak Language Models to Strong Language Models](https://arxiv.org/abs/2401.01335)
