@@ -12,6 +12,11 @@
 
 [(2024 Dec) Self-Improvement in Language Models: The Sharpening Mechanism](https://arxiv.org/abs/2412.01951)
 
+[(2024 Dec) A Survey on LLM Inference-Time Self-Improvement](https://arxiv.org/pdf/2412.14352)
+
+- Survey paper for inference-time self-improvement
+- Collection of prior papers: https://github.com/dongxiangjue/Awesome-LLM-Self-Improvement
+
 [(2025 Mar) Self-Evolved Preference Optimization for Enhancing Mathematical Reasoning in Small Language Models](https://arxiv.org/abs/2503.04813)
 
 [(2025 May) Can Large Reasoning Models Self-Train?](https://arxiv.org/abs/2505.21444)
