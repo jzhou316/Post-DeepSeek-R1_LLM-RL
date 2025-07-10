@@ -4,9 +4,13 @@
 
 [(2024 Jan) Self-Rewarding Language Models](https://arxiv.org/abs/2401.10020)
 
+[(2024 Apr) Toward Self-Improvement of LLMs via Imagination, Searching, and Criticizing](https://arxiv.org/abs/2404.12253)
+
 [(2024 June) Self-Play Fine-Tuning Converts Weak Language Models to Strong Language Models](https://arxiv.org/abs/2401.01335)
 
 [(2024 Nov) Self-Consistency Preference Optimization](https://arxiv.org/abs/2411.04109)
+
+[(2024 Dec) Self-Improvement in Language Models: The Sharpening Mechanism](https://arxiv.org/abs/2412.01951)
 
 [(2025 Mar) Self-Evolved Preference Optimization for Enhancing Mathematical Reasoning in Small Language Models](https://arxiv.org/abs/2503.04813)
 
