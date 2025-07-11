@@ -14,6 +14,10 @@
 
 [(2024 Nov) Self-Consistency Preference Optimization](https://arxiv.org/abs/2411.04109)
 
+[(2024 Nov) Self-Evolved Reward Learning for LLMs](https://arxiv.org/abs/2411.00418)
+
+- Learning from self-feedback with reward model (RM)
+
 [(2024 Dec) Self-Improvement in Language Models: The Sharpening Mechanism](https://arxiv.org/abs/2412.01951)
 
 [(2024 Dec) A Survey on LLM Inference-Time Self-Improvement](https://arxiv.org/pdf/2412.14352)
