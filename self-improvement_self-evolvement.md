@@ -12,6 +12,8 @@
 
 [(2024 June) Self-Play Fine-Tuning Converts Weak Language Models to Strong Language Models](https://arxiv.org/abs/2401.01335)
 
+[(2024 Oct) Techniques for Self-Improving LLM Evals](https://arize.com/blog/techniques-for-self-improving-llm-evals/)
+
 [(2024 Nov) Self-Consistency Preference Optimization](https://arxiv.org/abs/2411.04109)
 
 [(2024 Nov) Self-Evolved Reward Learning for LLMs](https://arxiv.org/abs/2411.00418)
