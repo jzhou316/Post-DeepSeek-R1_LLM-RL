@@ -25,6 +25,8 @@
 - **Survey** paper for inference-time self-improvement
 - Collection of prior papers: https://github.com/dongxiangjue/Awesome-LLM-Self-Improvement
 
+[(2024 Dec) Mind the Gap: Examining the Self-Improvement Capabilities of Large Language Models](https://arxiv.org/abs/2412.02674)
+
 [(2025 Feb) Self-rewarding correction for mathematical reasoning](https://arxiv.org/abs/2502.19613)
 
 [(2025 Mar) Self-Evolved Preference Optimization for Enhancing Mathematical Reasoning in Small Language Models](https://arxiv.org/abs/2503.04813)
