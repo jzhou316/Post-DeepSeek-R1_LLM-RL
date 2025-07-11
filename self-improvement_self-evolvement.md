@@ -25,6 +25,8 @@
 - **Survey** paper for inference-time self-improvement
 - Collection of prior papers: https://github.com/dongxiangjue/Awesome-LLM-Self-Improvement
 
+[(2025 Feb) Self-rewarding correction for mathematical reasoning](https://arxiv.org/abs/2502.19613)
+
 [(2025 Mar) Self-Evolved Preference Optimization for Enhancing Mathematical Reasoning in Small Language Models](https://arxiv.org/abs/2503.04813)
 
 [(2025 May) Can Large Reasoning Models Self-Train?](https://arxiv.org/abs/2505.21444)
@@ -51,6 +53,12 @@
 [(2025 May) DEBATE, TRAIN, EVOLVE: Self Evolution of Language Model Reasoning](https://arxiv.org/abs/2505.15734)
 
 - Using multi-agent debate to create reasoning traces for training reasoning models
+
+[(2025 May) AlphaEvolve: A Gemini-powered coding agent for designing advanced algorithms](https://deepmind.google/discover/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/)
+
+- From Google: An evolutionary coding agent powered by large language models for general-purpose algorithm discovery and optimization.
+- [The Rise of Self-Evolving AI: Google’s AlphaEvolve is Just the Beginning](https://www.linkedin.com/pulse/rise-self-evolving-ai-googles-alphaevolve-just-beginning-reddy-oqojc)
+- [Meet SELF-DISCOVER: Google DeepMind’s New Method for LLM Reasoning](https://jrodthoughts.medium.com/meet-self-discover-google-deepminds-new-method-for-llm-reasoning-4f3fdc547926)
 
 [(2025 May) Latent Principle Discovery for Language Model Self-Improvement](https://arxiv.org/abs/2505.16927)
 
