@@ -33,6 +33,11 @@
 
 [(2025 Mar) Self-Evolved Preference Optimization for Enhancing Mathematical Reasoning in Small Language Models](https://arxiv.org/abs/2503.04813)
 
+[(2025 Apr - ICLR 2025 Workshop) Scaling Self-Improving Foundation Models](https://sites.google.com/berkeley.edu/selfimprovingfoundationmodels/home)
+
+- ICLR 2025 **Workshop**
+- Accepted papers around the topic [here](https://sites.google.com/berkeley.edu/selfimprovingfoundationmodels/accepted-papers)
+
 [(2025 May) Can Large Reasoning Models Self-Train?](https://arxiv.org/abs/2505.21444)
 
 - Majority voting to get rewards or replace external verify
