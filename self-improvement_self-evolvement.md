@@ -78,3 +78,8 @@
 [(2025 June) Self-Adapting Language Models](https://arxiv.org/pdf/2506.10943)
 
 - Something I've been thinking to do. Very excited for this direction.
+
+
+[(Paper Collection) Awesome Label-Free Reinforcement Learning with Verifiable Rewards](https://github.com/QingyangZhang/Label-Free-RLVR/)
+
+- RLVR
