@@ -33,7 +33,7 @@
 
 [(2025 Jan) rStar-Math: Small LLMs Can Master Math Reasoning with Self-Evolved Deep Thinking](https://arxiv.org/abs/2501.04519)
 
-- Specific on math reasoning, and using Monte Carlo search and process reward models
+- Specific on math reasoning, and iteratively using Monte Carlo search and process reward models
 
 [(2025 Feb) Self-rewarding correction for mathematical reasoning](https://arxiv.org/abs/2502.19613)
 
