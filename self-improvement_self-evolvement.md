@@ -79,6 +79,7 @@
 
 - Something I've been thinking to do. Very excited for this direction.
 
+### Collection
 
 [(Paper Collection) Awesome Label-Free Reinforcement Learning with Verifiable Rewards](https://github.com/QingyangZhang/Label-Free-RLVR/)
 
