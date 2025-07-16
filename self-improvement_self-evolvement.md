@@ -20,6 +20,8 @@
 
 - Learning from self-feedback with reward model (RM)
 
+[(2024 Nov) Preference Optimization for Reasoning with Pseudo Feedback](https://arxiv.org/abs/2411.16345)
+
 [(2024 Dec) Self-Improvement in Language Models: The Sharpening Mechanism](https://arxiv.org/abs/2412.01951)
 
 [(2024 Dec) A Survey on LLM Inference-Time Self-Improvement](https://arxiv.org/pdf/2412.14352)
