@@ -2,6 +2,8 @@
 
 [(2022 Oct) Large Language Models Can Self-Improve](https://arxiv.org/abs/2210.11610)
 
+[(2023 Mar) Self-Refine: Iterative Refinement with Self-Feedback](https://arxiv.org/abs/2303.17651)
+
 [(2024 Jan) Self-Rewarding Language Models](https://arxiv.org/abs/2401.10020)
 
 [(2024 Apr) Toward Self-Improvement of LLMs via Imagination, Searching, and Criticizing](https://arxiv.org/abs/2404.12253)
