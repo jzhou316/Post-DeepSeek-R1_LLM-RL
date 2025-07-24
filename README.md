@@ -394,3 +394,8 @@ A100-80G GPUs
 - The length reward formulation is a bit less straightforward
 - Doesn't show superior performance compared to previous baselines with simple length reward, such as L1-Max
 
+[(2025 June) Token-Efficient RL for LLM Reasoning](https://arxiv.org/pdf/2504.20834v4)
+
+-> Reduce resource usages when training with GRPO with LoRA
+- Restrict the tokens  that contribute to the loss
+- Estimate token level advantage, and uses replay for resampling
