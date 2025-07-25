@@ -370,6 +370,7 @@ A100-80G GPUs
 [(2025 Apr) Stop Overthinking: A Survey on Efficient Reasoning for Large Language Models](https://arxiv.org/abs/2503.16419)
 
 -> Survey
+- Collection of papers: https://github.com/Eclipsess/Awesome-Efficient-Reasoning-LLMs
 
 [(2025 Apr) Learning Adaptive Parallel Reasoning with Language Models](https://arxiv.org/abs/2504.15466)
 
