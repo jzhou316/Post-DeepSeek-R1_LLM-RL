@@ -96,3 +96,5 @@
 [(Paper Collection) Awesome Label-Free Reinforcement Learning with Verifiable Rewards](https://github.com/QingyangZhang/Label-Free-RLVR/)
 
 - RLVR
+
+[(2025 Aug) A Survey of Self-Evolving Agents: On Path to Artificial Super Intelligence](https://arxiv.org/abs/2507.21046)
