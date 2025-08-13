@@ -98,9 +98,11 @@
 
 - Curriculum learning approach with RL for training data selection
 
+[(2025 June) Consistent Paths Lead to Truth: Self-Rewarding Reinforcement Learning for LLM Reasoning](https://arxiv.org/pdf/2506.08745)
+
 [(2025 June) Self-Adapting Language Models](https://arxiv.org/pdf/2506.10943)
 
-- Something I've been thinking to do. Very excited for this direction.
+- _Joe: Something I've been thinking to do. Very excited for this direction._
 
 ### Systems and Code
 
