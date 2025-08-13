@@ -14,6 +14,11 @@
 
 [(2024 June) Self-Play Fine-Tuning Converts Weak Language Models to Strong Language Models](https://arxiv.org/abs/2401.01335)
 
+[(2024 Sept; ICLR 2025) Training Language Models to Self-Correct via Reinforcement Learning](https://arxiv.org/abs/2409.12917)
+
+- Google Deepmind
+- OpenReview Discussion: https://openreview.net/forum?id=CjwERcAU7w
+
 [(2024 Oct) Techniques for Self-Improving LLM Evals](https://arize.com/blog/techniques-for-self-improving-llm-evals/)
 
 [(2024 Nov) Self-Consistency Preference Optimization](https://arxiv.org/abs/2411.04109)
@@ -49,6 +54,12 @@
 
 - ICLR 2025 **Workshop**
 - Accepted papers around the topic [here](https://sites.google.com/berkeley.edu/selfimprovingfoundationmodels/accepted-papers)
+
+[(2025 Apr) A Self-Improving Coding Agent](https://arxiv.org/abs/2504.15228)
+
+[(2025 Apr) Collaborative Reasoner : Self-Improving Social Agents with Synthetic Conversations](https://ai.meta.com/research/publications/collaborative-reasoner-self-improving-social-agents-with-synthetic-conversations/)
+
+[(2025 May ICML Position) Position: Truly Self-Improving Agents Require Intrinsic Metacognitive Learning](https://openreview.net/forum?id=4KhDd0Ozqe)
 
 [(2025 May) Can Large Reasoning Models Self-Train?](https://arxiv.org/abs/2505.21444)
 
@@ -90,6 +101,22 @@
 [(2025 June) Self-Adapting Language Models](https://arxiv.org/pdf/2506.10943)
 
 - Something I've been thinking to do. Very excited for this direction.
+
+### Systems and Code
+
+[(2023) metamorph](https://github.com/victorb/metamorph/)
+
+- Early attempts to use GPT to improve code
+- "An experiment in letting GPT-4 edit a program by itself. What program? The program that lets GPT-4 edit itself."
+
+[(2025 May) Darwin Gödel Machine: Open-Ended Evolution of Self-Improving Agents](https://github.com/jennyzzt/dgm)
+
+- Coding agent for the paper
+
+[OpenEvolve](https://github.com/codelion/openevolve)
+- An evolutionary coding agent
+- Based on AlphaEvolve research
+- Serves as both a research platform for evolutionary AI and a practical tool for automated code optimization.
 
 ### Collection
 
