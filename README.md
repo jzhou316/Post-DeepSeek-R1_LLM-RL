@@ -325,6 +325,9 @@ _Joe: I marked the year with month for papers, due to the extreme fast pace in t
 - Summarized a sentence taxonomy for reasoning sentences (Table 1 in Appendix A)
 - And visualize, with a good demo page https://www.thought-anchors.com/
 
+[(2024 Apr) Demystifying Reasoning Dynamics with Mutual Information: Thinking Tokens are Information Peaks in LLM Reasoning](https://arxiv.org/pdf/2506.02867)
+
+
 
 ### Efficiency
 
@@ -348,6 +351,9 @@ _Joe: I marked the year with month for papers, due to the extreme fast pace in t
 [(2025 Feb) Demystifying Long Chain-of-Thought Reasoning in LLMs](https://arxiv.org/pdf/2502.03373)
 
 -> _Joe: see Section 4.2 for the length control with reward design. Strategy is similar to the paper above._
+
+[(2025 Mar) The First Few Tokens Are All You Need: An Efficient and Effective Unsupervised Prefix Fine-Tuning Method for Reasoning Models](https://arxiv.org/pdf/2503.02875)
+
 
 [(2025 Apr) Z1: Efficient Test-time Scaling with Code](https://arxiv.org/abs/2504.00810)
 
