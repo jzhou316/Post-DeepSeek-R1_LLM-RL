@@ -331,6 +331,10 @@ _Joe: I marked the year with month for papers, due to the extreme fast pace in t
 
 ### Efficiency
 
+[(2024 Dec) Compressed Chain of Thought: Efficient Reasoning through Dense Representations](https://arxiv.org/abs/2412.13171)
+
+- Reasoning with continuous tokens
+
 [(2025 Mar) Chain of Draft: Thinking Faster by Writing Less](https://arxiv.org/abs/2502.18600)
 
 -> _Joe: this is not using RL, but just a simple way of prompting by limiting the reasoning step lengths with instructions in prompts. I think similarly we can train LLM with RL to enforce this, and/or as a reward, to improve efficiency during the reasoning process_
