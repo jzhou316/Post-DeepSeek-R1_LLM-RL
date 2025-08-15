@@ -333,7 +333,12 @@ _Joe: I marked the year with month for papers, due to the extreme fast pace in t
 
 [(2024 Dec) Compressed Chain of Thought: Efficient Reasoning through Dense Representations](https://arxiv.org/abs/2412.13171)
 
-- Reasoning with continuous tokens
+- Reasoning with continuous tokens 
+
+[(2025 Feb) TokenSkip: Controllable Chain-of-Thought Compression in LLMs](https://arxiv.org/abs/2502.12067)
+
+- Filtering out some "unimportant" CoT tokens based on heuristics, generate compressed CoT tokens, and then fine-tune on the reduced trajectories
+- _Joe: similar flavor to context compression, token delection, like LLMLingua_
 
 [(2025 Mar) Chain of Draft: Thinking Faster by Writing Less](https://arxiv.org/abs/2502.18600)
 
