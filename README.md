@@ -186,6 +186,9 @@ _Joe: I marked the year with month for papers, due to the extreme fast pace in t
 - Includes search strategies such as Best-of-N, beam search, and beam search with lookahead
 - Involves process reward model (PRM) and revision models
 
+(2024 Nov) Deliberative Alignment: Reasoning Enables Safer Language Models
+
+-> Test-time scaling for safety
 
 [(2025 Jan) s1: Simple test-time scaling](https://arxiv.org/abs/2501.19393)
 
