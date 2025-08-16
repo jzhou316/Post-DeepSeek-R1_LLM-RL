@@ -115,6 +115,13 @@ Haoyan Yang, et al.
 - Paraphrase questions, and voting for consistency answers for rewards
 - _Joe: similar to consistency-based self-rewarding but with a tweak_
 
+### Self-Exploration
+
+Like human beings who are capable of exploring the environments and gain new knowledge in unfamiliar situations, future models/agents will need to be capable of the same, exploring and exploiting the environment, interactively, for continual learning.
+
+[(2024) NNetNav: Unsupervised Learning of Browser Agents Through Environment Interaction in the Wild](https://www.nnetnav.dev/)
+
+
 ### Systems and Code
 
 [(2023) metamorph](https://github.com/victorb/metamorph/)
