@@ -104,6 +104,11 @@
 
 - _Joe: Something I've been thinking to do. Very excited for this direction._
 
+[(2025 Aug) Co-Reward: Self-supervised Reinforcement Learning for Large Language Model Reasoning via Contrastive Agreement](https://arxiv.org/abs/2508.00410)
+
+- Paraphrase questions, and voting for consistency answers for rewards
+- _Joe: similar to consistency-based self-rewarding but with a tweak_
+
 ### Systems and Code
 
 [(2023) metamorph](https://github.com/victorb/metamorph/)
