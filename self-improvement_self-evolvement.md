@@ -51,6 +51,7 @@
 - Mathematical reasoning
 
 [(2025 Feb) Dynamic Noise Preference Optimization for LLM Self-Improvement via Synthetic Data](https://arxiv.org/abs/2502.05400)
+
 Haoyan Yang, et al.
 
 [(2025 Mar) Self-Evolved Preference Optimization for Enhancing Mathematical Reasoning in Small Language Models](https://arxiv.org/abs/2503.04813)
