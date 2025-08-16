@@ -418,3 +418,7 @@ A100-80G GPUs
 -> Reduce resource usages when training with GRPO with LoRA
 - Restrict the tokens  that contribute to the loss
 - Estimate token level advantage, and uses replay for resampling
+
+[(2025 July) RLVMR: Reinforcement Learning with Verifiable Meta-Reasoning Rewards for Robust Long-Horizon Agents](https://arxiv.org/abs/2507.22844)
+
+- RL for long-horizon reasoning with agents
