@@ -422,3 +422,7 @@ A100-80G GPUs
 [(2025 July) RLVMR: Reinforcement Learning with Verifiable Meta-Reasoning Rewards for Robust Long-Horizon Agents](https://arxiv.org/abs/2507.22844)
 
 - RL for long-horizon reasoning with agents
+
+[(2025 Aug) Efficient Inference for Large Reasoning Models: A Survey](https://arxiv.org/abs/2503.23077)
+
+-> Survey
