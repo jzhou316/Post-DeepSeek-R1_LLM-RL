@@ -117,6 +117,8 @@ Haoyan Yang, et al.
 
 ### Zero
 
+_Joe: very interested in this._
+
 [(2025 May) Absolute Zero: Reinforced Self-play Reasoning with Zero Data](https://arxiv.org/abs/2505.03335)
 
 [(2025 Aug) R-Zero: Self-Evolving Reasoning LLM from Zero Data](https://arxiv.org/abs/2508.05004)
