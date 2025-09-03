@@ -115,6 +115,14 @@ Haoyan Yang, et al.
 - Paraphrase questions, and voting for consistency answers for rewards
 - _Joe: similar to consistency-based self-rewarding but with a tweak_
 
+### Zero
+
+[(2025 May) Absolute Zero: Reinforced Self-play Reasoning with Zero Data](https://arxiv.org/abs/2505.03335)
+
+[(2025 Aug) R-Zero: Self-Evolving Reasoning LLM from Zero Data](https://arxiv.org/abs/2508.05004)
+
+
+
 ### Self-Exploration
 
 Like human beings who are capable of exploring the environments and gain new knowledge in unfamiliar situations, future models/agents will need to be capable of the same, exploring and exploiting the environment, interactively, for continual learning.
