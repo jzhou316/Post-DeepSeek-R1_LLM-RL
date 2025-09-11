@@ -330,7 +330,12 @@ _Joe: I marked the year with month for papers, due to the extreme fast pace in t
 
 [(2024 Apr) Demystifying Reasoning Dynamics with Mutual Information: Thinking Tokens are Information Peaks in LLM Reasoning](https://arxiv.org/pdf/2506.02867)
 
+[(2025 Feb) Understanding the Uncertainty of LLM Explanations: A Perspective Based on Reasoning Topology](https://arxiv.org/abs/2502.17026)
 
+-> Not necessarily long CoT, but built a topological graph to explain reasoning patterns.
+
+- The structured representation of reasoning could be applied elsewhere, e.g. to super long reasoning process.
+  
 
 ### Efficiency
 
