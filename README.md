@@ -335,6 +335,13 @@ _Joe: I marked the year with month for papers, due to the extreme fast pace in t
 -> Not necessarily long CoT, but built a topological graph to explain reasoning patterns.
 
 - The structured representation of reasoning could be applied elsewhere, e.g. to super long reasoning process.
+
+
+#### Data
+
+Thought Anchors: https://www.thought-anchors.com/
+
+Open Thoughts: https://github.com/open-thoughts/open-thoughts
   
 
 ### Efficiency
