@@ -121,6 +121,9 @@ Haoyan Yang, et al.
 - Paraphrase questions, and voting for consistency answers for rewards
 - _Joe: similar to consistency-based self-rewarding but with a tweak_
 
+[(2025 Sept) Self-Evolving LLMs via Continual Instruction Tuning](https://www.arxiv.org/abs/2509.18133)
+
+
 ### Zero
 
 _Joe: very interested in this._
