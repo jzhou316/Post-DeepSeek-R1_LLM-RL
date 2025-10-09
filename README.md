@@ -161,6 +161,10 @@ RL + LLM applied to **multimodality**
 
 - Audio LLM, fine-tuned with GRPO
 
+#### [SpatialReasoner: Towards Explicit and Generalizable 3D Spatial Reasoning](https://arxiv.org/abs/2504.20024)
+RL + LLM applied to **multimodality**
+
+- Spatial reasoning with 3D augmented input parsed from images
 
 #### [Search-R1: Train your LLMs to reason and call a search engine with reinforcement learning](https://github.com/PeterGriffinJin/Search-R1?tab=readme-ov-file#search-r1-train-your-llms-to-reason-and-call-a-search-engine-with-reinforcement-learning)
 
@@ -263,7 +267,13 @@ _Joe: I marked the year with month for papers, due to the extreme fast pace in t
 
 [(2025 Mar) ImageGen-CoT: Enhancing Text-to-Image In-context Learning with Chain-of-Thought Reasoning](https://arxiv.org/abs/2503.19312)
 
+[(2025 Apr) SpatialReasoner: Towards Explicit and Generalizable 3D Spatial Reasoning](https://arxiv.org/abs/2504.20024)
+
+- Spatial reasoning from vision inputs, augmented with parsed 3D structures
+
+
 [(2025 May) Omni-R1: Do You Really Need Audio to Fine-Tune Your Audio LLM?](https://arxiv.org/abs/2505.09439)
+
 
 
 ### RL for Different Ways of Generation
