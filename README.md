@@ -184,6 +184,8 @@ RL + LLM applied to **retrieval**
 
 ## Literature
 
+Here is a collection of papers of different topics and flavors. They are not (cannot be) exhaustive, but grouped based on their themes to give some sense of different types of research and problems in the space.
+
 _Joe: I marked the year with month for papers, due to the extreme fast pace in this domain of exploding research_
 
 
@@ -353,6 +355,12 @@ _Joe: I marked the year with month for papers, due to the extreme fast pace in t
 -> Not necessarily long CoT, but built a topological graph to explain reasoning patterns.
 
 - The structured representation of reasoning could be applied elsewhere, e.g. to super long reasoning process.
+
+[(2025 Sept) Reasoning Vectors: Transferring Chain-of-Thought Capabilities via Task Arithmetic](https://arxiv.org/abs/2509.01363)
+-> Steering/task vectors for reasoning
+
+- Two identity models, one going through SFT, and one GRPO
+- Extract task vectors as the difference between parameters to control the reasoning behaviors
 
 
 #### Data
