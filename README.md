@@ -363,6 +363,13 @@ _Joe: I marked the year with month for papers, due to the extreme fast pace in t
 - Extract task vectors as the difference between parameters to control the reasoning behaviors
 
 
+[(2025 Oct) First Try Matters: Revisiting the Role of Reflection in Reasoning Models](https://arxiv.org/abs/2510.08308)
+-> challenges the conception that reflection in model reasoning actually does "reflection"
+
+- Focused on reflective behaviours of model reasoning
+- Found that most reflective behaviors do not actually alter model reasonings, but merely confirm
+- Fine-tuning on more reflective behaivors mostly enhance first-answer correctness
+
 #### Data
 
 Thought Anchors: https://www.thought-anchors.com/
