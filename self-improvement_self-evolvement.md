@@ -98,6 +98,12 @@ Haoyan Yang, et al.
 - [The Rise of Self-Evolving AI: Google’s AlphaEvolve is Just the Beginning](https://www.linkedin.com/pulse/rise-self-evolving-ai-googles-alphaevolve-just-beginning-reddy-oqojc)
 - [Meet SELF-DISCOVER: Google DeepMind’s New Method for LLM Reasoning](https://jrodthoughts.medium.com/meet-self-discover-google-deepminds-new-method-for-llm-reasoning-4f3fdc547926)
 
+
+[(2025) Language Modeling by Language Models](https://arxiv.org/abs/2506.20249)
+
+- Using LLM agents to discover **LM architectures**
+- Automated pipeline for self improvement on the architecture exploration problem
+
 [(2025 Sept) Autonomous Code Evolution Meets NP-Completeness](https://arxiv.org/abs/2509.07367v1)
 
 - Following AlphaEvolve. From Nvidia.
