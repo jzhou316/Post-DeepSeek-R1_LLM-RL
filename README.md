@@ -375,7 +375,13 @@ _Joe: I marked the year with month for papers, due to the extreme fast pace in t
 Thought Anchors: https://www.thought-anchors.com/
 
 Open Thoughts: https://github.com/open-thoughts/open-thoughts
-  
+
+#### Training Receipe
+
+[(2025 Nov) JustRL: Scaling a 1.5B LLM with a Simple RL Recipe](https://relieved-cafe-fe1.notion.site/JustRL-Scaling-a-1-5B-LLM-with-a-Simple-RL-Recipe-24f6198b0b6b80e48e74f519bfdaf0a8)
+
+- Simple RL training receipe for scaling 1.5B LLM training
+
 
 ### Efficiency
 
