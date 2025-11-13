@@ -370,6 +370,9 @@ _Joe: I marked the year with month for papers, due to the extreme fast pace in t
 - Found that most reflective behaviors do not actually alter model reasonings, but merely confirm
 - Fine-tuning on more reflective behaivors mostly enhance first-answer correctness
 
+[(2025 Sept) RL's Razor: Why Online Reinforcement Learning Forgets Less](https://arxiv.org/abs/2509.04259)
+
+- RL training incurs less forgetting than SFT
 
 [(2025 Apr) Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model?](https://arxiv.org/abs/2504.13837)
 
