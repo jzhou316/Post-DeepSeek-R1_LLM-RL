@@ -370,6 +370,16 @@ _Joe: I marked the year with month for papers, due to the extreme fast pace in t
 - Found that most reflective behaviors do not actually alter model reasonings, but merely confirm
 - Fine-tuning on more reflective behaivors mostly enhance first-answer correctness
 
+
+[(2025 Apr) Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model?](https://arxiv.org/abs/2504.13837)
+
+- Challenges the role of RL to incentive model with new capabilities vs. just capitalizing on existing capabilities
+
+[(2025 Nov) Reinforcement Learning Improves Traversal of Hierarchical Knowledge in LLMs](https://arxiv.org/abs/2511.05933)
+
+- Similar research topic as above
+
+
 #### Data
 
 Thought Anchors: https://www.thought-anchors.com/
