@@ -471,6 +471,9 @@ A100-80G GPUs
 - Extract hidden states corresponding to different behaviral steps, and construct steering vectors to control the type of reasoning steps
 - Achieve more effective and efficient reasoning with inference-time steering, by rougly controling the number of steps for reflection, etc.
 
+[(2025 May) AutoL2S: Auto Long-Short Reasoning for Efficient Large Language Models](https://arxiv.org/abs/2505.22662)
+
+
 [(2025 June) Just Enough Thinking: Efficient Reasoning with Adaptive Length Penalties Reinforcement Learning](https://arxiv.org/abs/2506.05256)
 
 -> Again adding a length related penalty in the reward for RL training, but adjusted to the difficulty of each questions, measured by the pass rate of K samples
