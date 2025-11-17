@@ -428,6 +428,12 @@ Open Thoughts: https://github.com/open-thoughts/open-thoughts
 
 -> _Joe: see Section 4.2 for the length control with reward design. Strategy is similar to the paper above._
 
+[(2025, Feb) [EMNLP 2025] LightThinker: Thinking Step-by-Step Compression](https://arxiv.org/abs/2502.15589)
+
+-> _Joe: Compressing thinking steps into smaller set of special tokens. Train with special attention mask, inference with reduced KV cache based on the mask structures._
+
+- Not using RL. Merging rules are based on heuristics.
+
 [(2025 Mar) The First Few Tokens Are All You Need: An Efficient and Effective Unsupervised Prefix Fine-Tuning Method for Reasoning Models](https://arxiv.org/pdf/2503.02875)
 
 
