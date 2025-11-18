@@ -396,6 +396,13 @@ Open Thoughts: https://github.com/open-thoughts/open-thoughts
 - Simple RL training receipe for scaling 1.5B LLM training
 
 
+#### RL Alrogithms
+
+[(2025, Jun) TreeRPO: Tree Relative Policy Optimization](https://arxiv.org/abs/2506.05183)
+
+- Sampling to generate a tree structured trajectory, and collect rewards for every node
+
+
 ### Efficiency
 
 [(2024 Dec) Compressed Chain of Thought: Efficient Reasoning through Dense Representations](https://arxiv.org/abs/2412.13171)
