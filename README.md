@@ -401,7 +401,7 @@ Open Thoughts: https://github.com/open-thoughts/open-thoughts
 [(2025, Jun) TreeRPO: Tree Relative Policy Optimization](https://arxiv.org/abs/2506.05183)
 
 - Sampling to generate a tree structured trajectory, and collect rewards for every node
-
+- Improves sampling efficiency for training effciency
 
 ### Efficiency
 
