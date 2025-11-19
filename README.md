@@ -340,6 +340,13 @@ _Joe: I marked the year with month for papers, due to the extreme fast pace in t
 
 -> Analyzing base models and RL
 
+[(2025, Mar) The First Few Tokens Are All You Need: An Efficient and Effective Unsupervised Prefix Fine-Tuning Method for Reasoning Models](https://arxiv.org/abs/2503.02875)
+
+-> Analyzing the role of prefixes of reasoning trajectories; could also work for self-improvements
+
+- Found low diversity in the first few token generations (which makes sense as the sequence length is short, and the possibilities of different trajectories grow exponentially)
+- Only sample a short prefix and fine-tune the model based on that. Not using labels.
+
 
 [(2025 Jue) Thought Anchors: Which LLM Reasoning Steps Matter?](https://arxiv.org/abs/2506.19143)
 -> Analysis of reasoning sentences
