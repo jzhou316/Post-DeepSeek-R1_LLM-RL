@@ -403,6 +403,13 @@ Open Thoughts: https://github.com/open-thoughts/open-thoughts
 - Sampling to generate a tree structured trajectory, and collect rewards for every node
 - Improves sampling efficiency for training effciency
 
+[(2025 June) Consistent Paths Lead to Truth: Self-Rewarding Reinforcement Learning for LLM Reasoning](https://arxiv.org/pdf/2506.08745)
+
+- Measures how much intermediate reasoning steps lead to the same final answer, as a "consistency" metric summarizing the reasoning trajectory
+- Also measures how much sudden changes of the final answer at later reasoning steps are there in the trajectory, as a "volatility" metric
+- Observes clear separations of these two metrics between trajectories leading to correct vs. incorrect final answers
+- Include these trajectory statistics for reward, plus a "curiosity" reward that encourages diversity; also borrows the grouping idea from GRPO -> no external reward is needed, as during training the reward just depends on the sample trajectories and their final answers
+
 ### Efficiency
 
 [(2024 Dec) Compressed Chain of Thought: Efficient Reasoning through Dense Representations](https://arxiv.org/abs/2412.13171)
