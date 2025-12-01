@@ -355,7 +355,12 @@ _Joe: I marked the year with month for papers, due to the extreme fast pace in t
 - Summarized a sentence taxonomy for reasoning sentences (Table 1 in Appendix A)
 - And visualize, with a good demo page https://www.thought-anchors.com/
 
-[(2024 Apr) Demystifying Reasoning Dynamics with Mutual Information: Thinking Tokens are Information Peaks in LLM Reasoning](https://arxiv.org/pdf/2506.02867)
+[(2025 Apr) Demystifying Reasoning Dynamics with Mutual Information: Thinking Tokens are Information Peaks in LLM Reasoning](https://arxiv.org/pdf/2506.02867)
+
+- Mutual information is computed between hidden states (continuous vectors) at token step t and ground truth answer
+- Mutual information (MI) is not computed by estimating a distribution in the Shannon entropy format, but estimated by the Hilbert–Schmidt Independence Criterion (HSIC) with Gaussian kernels
+- MI is computed by first sampling the hidden state vectors, and then compute based on HSIC between two matrices (collections of the continuous vectors)
+- Token step t vectors are then mapped to tokens (e.g. by projection to the vocabulary) for concrete analysis
 
 [(2025 Feb) Understanding the Uncertainty of LLM Explanations: A Perspective Based on Reasoning Topology](https://arxiv.org/abs/2502.17026)
 
