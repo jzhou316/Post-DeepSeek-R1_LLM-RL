@@ -422,6 +422,8 @@ Open Thoughts: https://github.com/open-thoughts/open-thoughts
 - Observes clear separations of these two metrics between trajectories leading to correct vs. incorrect final answers
 - Include these trajectory statistics for reward, plus a "curiosity" reward that encourages diversity; also borrows the grouping idea from GRPO -> no external reward is needed, as during training the reward just depends on the sample trajectories and their final answers
 
+[(2025, July) STeCa: Step-level Trajectory Calibration for LLM Agent Learning](https://aclanthology.org/2025.findings-acl.604/)
+
 ### Efficiency
 
 [(2024 Dec) Compressed Chain of Thought: Efficient Reasoning through Dense Representations](https://arxiv.org/abs/2412.13171)
