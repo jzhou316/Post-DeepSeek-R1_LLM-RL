@@ -169,6 +169,12 @@ Like human beings who are capable of exploring the environments and gain new kno
 - Based on AlphaEvolve research
 - Serves as both a research platform for evolutionary AI and a practical tool for automated code optimization.
 
+
+### Risks and Alignment
+
+[(2025, Sep) Your Agent May Misevolve: Emergent Risks in Self-evolving LLM Agents](https://arxiv.org/abs/2509.26354)
+
+
 ### Collection
 
 [(Paper Collection) Awesome Label-Free Reinforcement Learning with Verifiable Rewards](https://github.com/QingyangZhang/Label-Free-RLVR/)
