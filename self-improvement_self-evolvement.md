@@ -176,6 +176,9 @@ Like human beings who are capable of exploring the environments and gain new kno
 - Based on AlphaEvolve research
 - Serves as both a research platform for evolutionary AI and a practical tool for automated code optimization.
 
+[(2025 Aug, Blog) Towards Open Evolutionary Agents](https://huggingface.co/blog/driaforall/towards-open-evolutionary-agents)
+
+- Experiments on [AlgoTune](https://algotune.io/), a benchmark to Speed Up General-Purpose Numerical Programs
 
 ### Risks and Alignment
 
