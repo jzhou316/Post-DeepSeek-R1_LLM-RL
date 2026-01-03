@@ -390,6 +390,14 @@ _Joe: I marked the year with month for papers, due to the extreme fast pace in t
 
 - Challenges the role of RL to incentive model with new capabilities vs. just capitalizing on existing capabilities
 
+[(2025, Apr) Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model?](https://arxiv.org/abs/2504.13837)
+
+- Many works with similar questions and conclusions
+
+[(2025, Jun) Spurious Rewards: Rethinking Training Signals in RLVR](https://arxiv.org/abs/2506.10947?)
+
+- Tested spurious rewards such as ground truth, majority voting, format, random, etc. that can still help the model reasoning. Interesting study to understand how RL helps model learn.
+
 [(2025 Nov) Reinforcement Learning Improves Traversal of Hierarchical Knowledge in LLMs](https://arxiv.org/abs/2511.05933)
 
 - Similar research topic as above
