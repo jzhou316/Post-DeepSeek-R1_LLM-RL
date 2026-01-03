@@ -428,7 +428,11 @@ Open Thoughts: https://github.com/open-thoughts/open-thoughts
 
 [(2024 Dec) Compressed Chain of Thought: Efficient Reasoning through Dense Representations](https://arxiv.org/abs/2412.13171)
 
-- Reasoning with continuous tokens 
+- Reasoning with continuous tokens
+
+[(2025, Jan) Think Smarter not Harder: Adaptive Reasoning with Inference Aware Optimization](https://arxiv.org/abs/2501.17974)
+
+- Budget aware thinking
 
 [(2025 Feb) TokenSkip: Controllable Chain-of-Thought Compression in LLMs](https://arxiv.org/abs/2502.12067)
 
