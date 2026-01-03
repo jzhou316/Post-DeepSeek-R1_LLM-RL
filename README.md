@@ -546,3 +546,5 @@ A100-80G GPUs
 [(2025 Aug) Efficient Inference for Large Reasoning Models: A Survey](https://arxiv.org/abs/2503.23077)
 
 -> Survey
+
+[(2025, Aug) Deep Think with Confidence](https://arxiv.org/abs/2508.15260)
