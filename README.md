@@ -401,6 +401,10 @@ _Joe: I marked the year with month for papers, due to the extreme fast pace in t
 
 - Many works with similar questions and conclusions
 
+[(2025, Apr) Echo Chamber: RL Post-training Amplifies Behaviors Learned in Pretraining](https://arxiv.org/abs/2504.07912)
+
+- Pretraining of smaller LMs + RL to understand RL effects
+
 [(2025, Jun) Spurious Rewards: Rethinking Training Signals in RLVR](https://arxiv.org/abs/2506.10947?)
 
 - Tested spurious rewards such as ground truth, majority voting, format, random, etc. that can still help the model reasoning. Interesting study to understand how RL helps model learn.
