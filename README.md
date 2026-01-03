@@ -338,6 +338,12 @@ _Joe: I marked the year with month for papers, due to the extreme fast pace in t
 
 -> Analyzing the learning dynamics of emergent reasoning with LLM + RL, across different factors such as SFT initilization, lengh reward design, etc.
 
+[(2025, Mar) SimpleRL-Zoo: Investigating and Taming Zero Reinforcement Learning for Open Base Models in the Wild](https://arxiv.org/abs/2503.18892)
+
+-> Reproduction of RL training on a diverse set of base models beside Qwen used in DeepSeek-R1. Also works for small language models (SLMs).
+
+- Code is here: https://github.com/hkust-nlp/simpleRL-reason
+
 [(2025 Mar) Cognitive Behaviors that Enable Self-Improving Reasoners, or, Four Habits of Highly Effective STaRs](https://arxiv.org/abs/2503.01307)
 
 -> Analyzing the behaviors of emergent reasoning from LLM + RL, across base models and training data
