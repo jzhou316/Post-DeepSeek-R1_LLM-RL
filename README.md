@@ -237,6 +237,9 @@ _Joe: I marked the year with month for papers, due to the extreme fast pace in t
 
 -> Test-time scaling for discrete diffusion models for texts
 
+[(2025, Apr) T1: Tool-integrated Self-verification for Test-time Compute Scaling in Small Language Models](https://arxiv.org/abs/2504.04718)
+
+-> Test-time scaling for small langauge models (SLMs) with tool integration and external verification
 
 #### Scaling Laws (all kinds of)
 
