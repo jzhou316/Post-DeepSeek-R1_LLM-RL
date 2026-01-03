@@ -144,7 +144,9 @@ _Joe: very interested in this._
 
 [(2025 Aug) R-Zero: Self-Evolving Reasoning LLM from Zero Data](https://arxiv.org/abs/2508.05004)
 
+[(2025, Feb) Multi-Turn Code Generation Through Single-Step Rewards](https://arxiv.org/abs/2502.20380)
 
+- Train verifier and generator iteratively for coding tasks.
 
 ### Self-Exploration
 
