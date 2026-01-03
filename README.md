@@ -289,7 +289,14 @@ _Joe: I marked the year with month for papers, due to the extreme fast pace in t
 
 -> RL (LOOP, a data- and memory-efficient variant of proximal policy optimization) for long-horizon interactive **agents** ([AppWorld](https://appworld.dev/))
 
+[(2025, Sep) RLP: Reinforcement as a Pretraining Objective](https://arxiv.org/abs/2510.01265)
 
+-> Train with RL to let model think before generating every token
+- This is related to the earlier work below, which presents the same idea but without explicitly using RL
+
+[(2024, Mar) Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking](https://arxiv.org/abs/2403.09629)
+
+- Train model to generate rational/thinking before each token generation
 
 ### Improve Long CoT for Reasoning
 
