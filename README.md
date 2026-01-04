@@ -429,6 +429,8 @@ Thought Anchors: https://www.thought-anchors.com/
 
 Open Thoughts: https://github.com/open-thoughts/open-thoughts
 
+[(2025, May) [NeurIPS] REASONING GYM: Reasoning Environments for Reinforcement Learning with Verifiable Rewards](https://arxiv.org/abs/2505.24760)
+
 #### Training Receipe
 
 [(2025 Nov) JustRL: Scaling a 1.5B LLM with a Simple RL Recipe](https://relieved-cafe-fe1.notion.site/JustRL-Scaling-a-1-5B-LLM-with-a-Simple-RL-Recipe-24f6198b0b6b80e48e74f519bfdaf0a8)
