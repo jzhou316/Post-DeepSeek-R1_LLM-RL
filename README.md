@@ -563,3 +563,5 @@ A100-80G GPUs
 -> Survey
 
 [(2025, Aug) Deep Think with Confidence](https://arxiv.org/abs/2508.15260)
+
+[(2025, Dec) Think Before You Prune: Self-Reflective Structured Pruning for Reasoning Language Models](https://arxiv.org/abs/2512.02185)
