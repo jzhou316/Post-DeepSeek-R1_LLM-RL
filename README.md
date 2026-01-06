@@ -27,6 +27,9 @@ Resources and research after DeepSeek-R1, around test-time computing, resurgence
   - [RL for Different Ways of Generation](#rl-for-different-ways-of-generation)
   - [Improve Long CoT for Reasoning](#improve-long-cot-for-reasoning)
   - [Understanding R1 and RL + LLMs, Tricks to Train RL](#understanding-r1-and-rl--llms-tricks-to-train-rl)
+    - [Data](#data)
+    - [Training Receipe](#training-receipe)
+    - [RL Algorithms](#rl-algorithms)
   - [Efficiency](#efficiency)
 
 ---
@@ -430,6 +433,10 @@ Thought Anchors: https://www.thought-anchors.com/
 Open Thoughts: https://github.com/open-thoughts/open-thoughts
 
 [(2025, May) [NeurIPS] REASONING GYM: Reasoning Environments for Reinforcement Learning with Verifiable Rewards](https://arxiv.org/abs/2505.24760)
+
+[(2025, Dec) Nemotron-Math: Efficient Long-Context Distillation of Mathematical Reasoning from Multi-Mode Supervision](https://arxiv.org/abs/2512.15489)
+
+-  Data containing math problems, reasoning trajectories, etc.: https://huggingface.co/datasets/nvidia/Nemotron-Math-v2
 
 #### Training Receipe
 
