@@ -445,7 +445,7 @@ Open Thoughts: https://github.com/open-thoughts/open-thoughts
 - Simple RL training receipe for scaling 1.5B LLM training
 
 
-#### RL Alrogithms
+#### RL Algorithms
 
 [(2025, Jun) TreeRPO: Tree Relative Policy Optimization](https://arxiv.org/abs/2506.05183)
 
