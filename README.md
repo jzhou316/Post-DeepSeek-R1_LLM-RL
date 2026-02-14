@@ -571,4 +571,9 @@ A100-80G GPUs
 
 [(2025, Aug) Deep Think with Confidence](https://arxiv.org/abs/2508.15260)
 
+[(2025, Oct) Efficient LLM Reasoning Papers](https://scouts.yutori.com/16ff48d0-a536-4480-adb2-c0513942150e)
+
+-> List of recent relevant papers from Arxiv
+
 [(2025, Dec) Think Before You Prune: Self-Reflective Structured Pruning for Reasoning Language Models](https://arxiv.org/abs/2512.02185)
+
