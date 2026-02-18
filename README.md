@@ -513,6 +513,10 @@ Open Thoughts: https://github.com/open-thoughts/open-thoughts
 [(2025 Mar) The First Few Tokens Are All You Need: An Efficient and Effective Unsupervised Prefix Fine-Tuning Method for Reasoning Models](https://arxiv.org/pdf/2503.02875)
 
 
+[(2025, Apr) ShorterBetter: Guiding Reasoning Models to Find Optimal Inference Length for Efficient Reasoning](https://arxiv.org/abs/2504.21370)
+
+-> reward shaping to reduce reasoning token numbers within each GRPO batch
+
 [(2025 Apr) Z1: Efficient Test-time Scaling with Code](https://arxiv.org/abs/2504.00810)
 
 -> Reducing reasoning token length through SFT on QwQ-32B-preview model generated data
