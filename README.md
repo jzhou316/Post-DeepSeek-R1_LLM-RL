@@ -143,6 +143,10 @@ There May Not be Aha Moment in R1-Zero-like Training — A Pilot Study
 RL + LLM applied to **agents**
 - Using PPO instead of GRPO
 
+#### [(2025, Apr) ToolRL: Reward is All Tool Learning Needs](https://arxiv.org/abs/2504.13958)
+RL + LLM applied to **tool calling**
+- Explored different reward design for tool selection
+
 #### [Logic-RL](https://github.com/Unakar/Logic-RL?tab=readme-ov-file#logic-rl)
 RL + LLM applied with **synthetic logic puzzles** with controllable complexity and straightforward answer verification
 
