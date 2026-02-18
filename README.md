@@ -548,6 +548,9 @@ A100-80G GPUs
 
 [(2025 May) AutoL2S: Auto Long-Short Reasoning for Efficient Large Language Models](https://arxiv.org/abs/2505.22662)
 
+[(2025, Apr) Acting Less is Reasoning More! Teaching Model to Act Efficiently](https://arxiv.org/abs/2504.14870)
+
+-> reward shaping to reduce the cost of the number of tool calling
 
 [(2025 June) Just Enough Thinking: Efficient Reasoning with Adaptive Length Penalties Reinforcement Learning](https://arxiv.org/abs/2506.05256)
 
