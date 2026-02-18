@@ -133,6 +133,9 @@ There May Not be Aha Moment in R1-Zero-like Training — A Pilot Study
 - GPU resourse: see the other reproductions, and discussion e.g. [here](https://github.com/huggingface/open-r1/issues/100)
   - One GPU with GRPO on [Colab](https://unsloth.ai/blog/r1-reasoning)
 
+- [AgentsMeetRL](https://github.com/thinkwee/AgentsMeetRL)
+  - A summary of open-source repos for training LLM Agents with RL
+
 ### LLM + RL with/for X
 
 
