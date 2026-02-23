@@ -589,5 +589,9 @@ A100-80G GPUs
 
 -> List of recent relevant papers from Arxiv
 
+[(2025, Oct) The Markovian Thinker: Architecture-Agnostic Linear Scaling of Reasoning](https://arxiv.org/abs/2510.06557)
+
+-> structured compression of thinking chunks
+
 [(2025, Dec) Think Before You Prune: Self-Reflective Structured Pruning for Reasoning Language Models](https://arxiv.org/abs/2512.02185)
 
