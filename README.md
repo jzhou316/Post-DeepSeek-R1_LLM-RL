@@ -474,6 +474,10 @@ Open Thoughts: https://github.com/open-thoughts/open-thoughts
 
 - Reasoning with continuous tokens
 
+[(2024, Dec) Token-Budget-Aware LLM Reasoning](https://arxiv.org/abs/2412.18547)
+
+- Estimating token budget, and then SFT and DPO with optimal token budget (set in the instruction) data
+
 [(2025, Jan) Think Smarter not Harder: Adaptive Reasoning with Inference Aware Optimization](https://arxiv.org/abs/2501.17974)
 
 - Budget aware thinking
@@ -574,6 +578,7 @@ A100-80G GPUs
 -> Reduce resource usages when training with GRPO with LoRA
 - Restrict the tokens  that contribute to the loss
 - Estimate token level advantage, and uses replay for resampling
+
 
 [(2025 July) RLVMR: Reinforcement Learning with Verifiable Meta-Reasoning Rewards for Robust Long-Horizon Agents](https://arxiv.org/abs/2507.22844)
 
