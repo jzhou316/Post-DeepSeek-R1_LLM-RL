@@ -584,6 +584,10 @@ A100-80G GPUs
 
 - RL for long-horizon reasoning with agents
 
+[(2025, Jun) AALC: Large Language Model Efficient Reasoning via Adaptive Accuracy-Length Control](https://arxiv.org/abs/2506.20160?)
+
+- Similar length penalty added to reward (a couple of them only differ in the details)
+
 [(2025 Aug) Efficient Inference for Large Reasoning Models: A Survey](https://arxiv.org/abs/2503.23077)
 
 -> Survey
