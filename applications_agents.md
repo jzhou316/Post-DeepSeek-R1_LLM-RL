@@ -46,6 +46,9 @@ A lot of these boil down to system designs with (multimodal) LLMs.
 - Auto generation research **talk videos**
 - Webpage and code: https://github.com/showlab/Paper2Video
 
+
+## Data Science Agents
+
 [(2024, Oct) AutoKaggle: A Multi-Agent Framework for Autonomous Data Science Competitions](https://arxiv.org/abs/2410.20424)
 
 - Data science agents
