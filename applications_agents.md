@@ -47,6 +47,12 @@ A lot of these boil down to system designs with (multimodal) LLMs.
 - Webpage and code: https://github.com/showlab/Paper2Video
 
 
+[(2026, Jan) ScholarPeer: A Context-Aware Multi-Agent Framework for Automated Peer Review](https://arxiv.org/abs/2601.22638)
+
+- Peer review agents from Google
+- Multi-agent framework
+
+
 ## Data Science Agents
 
 [(2024, Oct) AutoKaggle: A Multi-Agent Framework for Autonomous Data Science Competitions](https://arxiv.org/abs/2410.20424)
