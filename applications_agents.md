@@ -63,5 +63,15 @@ A lot of these boil down to system designs with (multimodal) LLMs.
 
 - Data science agents
 
+## Commercial Tools
+
+Google Paper Assistant Tool (PAT)
+
+- Adopted by [ICML 2026](https://blog.icml.cc/2026/01/14/icml-experimental-program-using-googles-paper-assistant-tool-pat/) and [NeurIPS 2026](https://blog.neurips.cc/2026/04/21/neurips-supports-authors-with-googles-paper-assistant-tool-pat/)
+
+[OpenAI Prism](https://openai.com/prism/)
+
+- I heard it does not provide option to opt out for training? lol
+
 
 
