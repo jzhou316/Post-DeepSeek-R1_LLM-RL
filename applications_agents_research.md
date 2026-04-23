@@ -80,5 +80,9 @@ Google Paper Assistant Tool (PAT)
 
 - I heard it does not provide option to opt out for training? lol
 
+[FARS (Fully Automated Research System)](https://analemma.ai/blog/introducing-fars/)
 
+- An end-to-end AI research system that operates at scale
+- A good distillation of human knowledge on how to do research
+- For graduate students, learn from the research process, e.g. how to write a good [research proposal](https://gitlab.com/fars-a/entity-anonymization-context-faithfulness/-/blob/master/idea/proposal.md?ref_type=heads)
 
