@@ -53,6 +53,13 @@ A lot of these boil down to system designs with (multimodal) LLMs.
 - Multi-agent framework
 
 
+(2026) AI Research SKILLs
+
+https://github.com/Orchestra-Research/AI-research-SKILLs
+
+https://www.orchestra-research.com/
+
+
 ## Data Science Agents
 
 [(2024, Oct) AutoKaggle: A Multi-Agent Framework for Autonomous Data Science Competitions](https://arxiv.org/abs/2410.20424)
